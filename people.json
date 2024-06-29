@@ -7,16 +7,18 @@
         "quote": "It's just me and The Seaweeds for now. Contact me if you are interested in working with me!",
         "catergory": "current",
         "year": 2024,
-        "month": 6
+        "month": 6,
+        "nickname": "themachine"
     },
     {
-        "name": "The Seaweed",
+        "name": "The Seaweeds",
         "website": "",
         "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/theseaweed.png",
         "position": "",
         "quote": "We are Seaweed I, II, and III &#x1f422;",
         "catergory": "current-non-human",
         "year": 2024,
-        "month": 6
+        "month": 6,
+        "nickname": "theseaweeds"
     }
 ]
