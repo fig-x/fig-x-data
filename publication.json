@@ -9,6 +9,23 @@
 		"Ubicomp": "The ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies"
 	}
 	,
+	{"separator": "2024" }
+	,
+	{
+		"title": "Promises and Pitfalls: Using Large Language Models to Generate Visualization Items",
+		"people": "Yuan (Charles) Cui, Lily W. Ge, Yiren Ding, Lane Harrison, <text class = 'figx-name-style'>Fumeng Yang</text>, Matthew Kay",
+		"year": "2024",
+		"thumbnail": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/publication/2024-vila.png",
+		"paper_id": "2024-vila",
+		"description": "We use GPT to automatically generate high-quality visualization multiple choice questions",
+		"pdf": "",
+		"video": "",
+		"repo": "https://osf.io/ysrhq/",
+		"doi": "",
+		"demo": "",
+		"awards": "",
+		"abbr": "VIS"
+	},
 	{
      "separator": "Prior to UMD" 
 	}
@@ -26,13 +43,7 @@
 		"doi": "https://doi.org/10.1145/3613904.3642371",
 		"demo": "https://forecasts.cs.northwestern.edu/2023-hypothetical-elections/?PROLIFIC_PID=use_testing_or_a_very_long_string",
 		"awards": "Best Paper Award (top 1%)",
-		"abbr": "CHI",
-		"tag_prob": true,
-		"tag_perception": false,
-		"tag_vr": false,
-		"tag_machine_learning": false,
-		"tag_model_explanations": true,
-		"tag_selected": true
+		"abbr": "CHI"
 	},
 	{
 		"title": "A Comparative Study on Visualizations of Scheduled Event Sequences: Gantt, Extended Gantt, and Stringline Charts",
@@ -46,13 +57,7 @@
 		"repo": "https://osf.io/qdpzm/",
 		"doi": "https://doi.org/10.1109/TVCG.2024.3358919",
 		"awards": "",
-		"abbr": "TVCG",
-		"tag_prob": false,
-		"tag_perception": true,
-		"tag_vr": false,
-		"tag_machine_learning": false,
-		"tag_model_explanations": false,
-		"tag_selected": true
+		"abbr": "TVCG"
 	},
 	
 	{
@@ -67,13 +72,7 @@
 		"repo": "https://osf.io/ajq8f/",
 		"doi": "https://doi.org/10.17605/OSF.IO/AJQ8F",
 		"awards": "Best Paper Award (top 1%)",
-		"abbr": "VIS",
-		"tag_prob": true,
-		"tag_perception": false,
-		"tag_vr": false,
-		"tag_machine_learning": false,
-		"tag_model_explanations": true,
-		"tag_selected": true
+		"abbr": "VIS"
 	},
 	{
 		"title": "Adaptive Assessment of Visualization Literacy",
@@ -87,13 +86,7 @@
 		"repo": "https://osf.io/a6258/",
 		"abbr": "VIS",
 		"doi": "https://doi.org/10.1109/TVCG.2023.3327165",
-		"awards": null,
-		"tag_prob": false,
-		"tag_perception": false,
-		"tag_vr": false,
-		"tag_machine_learning": false,
-		"tag_selected": false,
-		"tag_misc": true
+		"awards": null
 	},
 	{
 		"title": "Subjective Probability Correction for Uncertainty Representations",
@@ -107,12 +100,7 @@
 		"abbr": "CHI",
 		"repo": "https://doi.org/10.17605/OSF.IO/KCWXM",
 		"doi": "https://doi.org/10.1145/3544548.3580998",
-		"awards": "Honorable Mention Award (top 5%)",
-		"tag_prob": true,
-		"tag_perception": false,
-		"tag_vr": false,
-		"tag_machine_learning": false,
-		"tag_selected": true
+		"awards": "Honorable Mention Award (top 5%)"
 	},
 	{
 		"title": "How Can Deep Neural Networks Aid Visualization Perception Research?",
@@ -126,11 +114,7 @@
 		"description": "This paper provides insights from three perspectives—prediction, generalization, and interpretation—via training and analyzing deep convolutional neural networks on human correlation judgments in scatterplots",
 		"repo": "https://doi.org/10.17605/osf.io/exa8m",
 		"doi": "https://doi.org/10.1145/3544548.3581111",
-		"awards": "",
-		"tag_perception": true,
-		"tag_vr": false,
-		"tag_machine_learning": true,
-		"tag_selected": false
+		"awards": ""
 	},
 	{
 		"title": "Visual Cue Effects on a Classification Accuracy Estimation Task in Immersive Scatterplots",
@@ -144,11 +128,7 @@
 		"description": "It seems that most visual cues may not strongly affect perception in immersive analytics unless they change people's mental model about data",
 		"repo": "https://doi.org/10.17605/OSF.IO/PKUVZ",
 		"doi": "https://doi.org/10.1109/TVCG.2022.3192364",
-		"awards": "",
-		"tag_perception": true,
-		"tag_vr": true,
-		"tag_machine_learning": true,
-		"tag_selected": false
+		"awards": ""
 	},
 	{
 		"title": "Rethinking the Ranks of Visual Channels",
@@ -163,9 +143,7 @@
 		"repo": "https://doi.org/10.17605/OSF.IO/3E2QT",
 		"doi": "https://doi.org/10.1109/TVCG.2021.3114684",
 		"equal_contr": true,
-		"awards": "Honorable Mention Award (top 5%)",
-		"tag_perception": true,
-		"tag_selected": true
+		"awards": "Honorable Mention Award (top 5%)"
 	},
 	{
 		"title": "Revealing Perceptual Proxies with Adversarial Examples",
@@ -178,9 +156,7 @@
 		"description": "We give evidence of specific visual proxies for extracting mean and range from bar charts",
 		"abbr": "VIS",
 		"repo": "https://osf.io/2re7b/",
-		"doi": "https://doi.org/10.1109/TVCG.2020.3030429",
-		"tag_perception": true,
-		"tag_selected": false
+		"doi": "https://doi.org/10.1109/TVCG.2020.3030429"
 	},
 	{
 		"title": "A Virtual Reality Memory Palace Variant Aids Knowledge Retrieval from Scholarly Articles",
@@ -193,9 +169,7 @@
 		"paper_id": "2020-mp",
 		"description": "We show that virtual  reality  techniques  can  supporthigh-level cognitive tasks at least as well as traditionalmedia such as screen",
 		"doi": "https://doi.org/10.1109/TVCG.2020.3009003",
-		"repo": "https://osf.io/2v8ae/",
-		"tag_vr": true,
-		"tag_selected": false
+		"repo": "https://osf.io/2v8ae/"
 	},
 	{
 		"title": "How Do Visual Explanations Foster End Users' Appropriate Trust in Machine Learning?",
@@ -209,10 +183,7 @@
 		"description": "All our visual explanations reduce overtrust and undertrust, thereby fostering appropriate trust",
 		"awards": "Honorable Mention Award (top 1%)",
 		"doi": "https://doi.org/10.1145/3377325.3377480",
-		"repo": "https://osf.io/rghcz/",
-		"tag_model_explanations": true,
-		"tag_machine_learning": true,
-		"tag_selected": true
+		"repo": "https://osf.io/rghcz/"
 	},
 	{
 		"title": "Portalware: A Smartphone-Wearable Dual-Display System for Expanding the Free-Hand Interaction Region in Augmented Reality",
@@ -223,9 +194,7 @@
 		"thumbnail": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/publication/2020-portalware.jpg",
 		"paper_id": "2020-portalware",
 		"pdf": "https://dl.acm.org/doi/abs/10.1145/3334480.3383079",
-		"doi": "https://dx.doi.org/10.1145/3334480.3383079",
-		"description": null,
-		"tag_vr": true
+		"doi": "https://dx.doi.org/10.1145/3334480.3383079"
 	},
 	{
 		"title": "Remotion: A Motion-Based Capture and Replay Platform of Mobile Device Interaction",
@@ -238,8 +207,7 @@
 		"link": "http://remotion.cs.brown.edu",
 		"pdf": "projs/remotion/remotion.pdf",
 		"doi": "https://doi.org/10.1145/3214280",
-		"description": "We use mobile sensoring and physical visualizations to replay user interactions",
-		"tag_misc": true
+		"description": "We use mobile sensoring and physical visualizations to replay user interactions"
 	},
 	{
 		"title": "Correlation Judgment and Visualization Features",
@@ -252,9 +220,7 @@
 		"pdf": "https://osf.io/9yb2a/",
 		"repo": "https://osf.io/ew8hv/",
 		"doi": "https://doi.org/10.1109/TVCG.2018.2810918",
-		"description": "We build perceptual models for correlation perception in scatterplots",
-		"tag_perception": true,
-		"tag_selected": false
+		"description": "We build perceptual models for correlation perception in scatterplots"
 	},
 	{
 		"title": "Ranking Visualizations of Correlation Using Weber's Law",
@@ -267,8 +233,6 @@
 		"pdf": "http://valt.cs.tufts.edu/pdf/harrison2014ranking.pdf",
 		"repo": "https://github.com/TuftsVALT/ranking-correlation",
 		"doi": "https://doi.org/10.1109/TVCG.2014.2346979",
-		"description": "We model the perception of correlation in several visualizations using Weber’s law",
-		"tag_perception": true,
-		"tag_selected": false
+		"description": "We model the perception of correlation in several visualizations using Weber’s law"
 	}
 ]
