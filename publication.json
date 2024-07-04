@@ -9,23 +9,6 @@
 		"Ubicomp": "The ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies"
 	}
 	,
-	{"separator": "2024" }
-	,
-	{
-		"title": "Promises and Pitfalls: Using Large Language Models to Generate Visualization Items",
-		"people": "Yuan (Charles) Cui, Lily W. Ge, Yiren Ding, Lane Harrison, <text class = 'figx-name-style'>Fumeng Yang</text>, Matthew Kay",
-		"year": "2024",
-		"thumbnail": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/publication/2024-vila.png",
-		"paper_id": "2024-vila",
-		"description": "We use GPT to automatically generate high-quality visualization multiple choice questions",
-		"pdf": "",
-		"video": "",
-		"repo": "https://osf.io/ysrhq/",
-		"doi": "",
-		"demo": "",
-		"awards": "",
-		"abbr": "VIS"
-	},
 	{
      "separator": "Prior to UMD" 
 	}
