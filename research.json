@@ -1,0 +1,56 @@
+[
+    {
+        "area": "Quantifying and Improving AI Literacy",
+        "core": "",
+        "description": "AI literacy defines the abiliteis of individuals to understand, interact with, and critically evaluate artificial intelligence techniques and systems. We quantify and improve people's AI literacy to enhance trust, accountability, and decision-making. ",
+        "paper": [
+            ""
+        ]
+    },
+    {
+        "area": "Trust in Computational Models",
+        "core": " ",
+        "description": "We study how users perceive and maintain trust in computational models like probabilistic forecasts and machine learning tehcniques, especially in the domains of healthcare and policy-making. Our visual methods enhanced the interpretability of model and enable users to make more appropriate decisions. ",
+        "paper": [
+            "2020-ml-trust",
+            "2024-dice"
+        ]
+    },
+    {
+        "area": "Uncertainty Communication and Decision-making",
+        "description": "We explore how to convey the inherent uncertainties in model predictions to the general public. Our work focuses on developing visual methods for journalists to present probabilistic electoral forecasts. We also investigate the impact of such reporting on voter behavior and trust in the electoral process. ",
+        "paper": [
+            "2024-dice",
+            "2023-midterm",
+            "2023-bias-correction",
+            "2024-backstory"
+        ]
+    },
+    {
+        "area": "Visualization Perception and Evaluation",
+        "description": "We also work on understanding how people perceive, interpret, and interact with visual representations of data. We evaluate the usability and impact of different visualization designs through empirical studies and vision methods.  ",
+        "paper": [
+            "2014-weber",
+            "2018-vf",
+            "2023-dnn",
+            "2024-marey"
+        ]
+    },
+    {
+        "area": "Collaboration: Visualization Literacy",
+        "description": "Visualization literacy is an essential skill for accurately interpreting data to inform critical decisions.  We study the following questions: How can we measure more aspects of visualization literacy? How can we efficiently measure visualization literacy? How can we generate diverse visualization literacy test items at scale?",
+        "paper": [
+            "2024-vila",
+            "2023-cat"
+        ]
+    },
+    {
+        "area": "Collaboration: Immersive Analytics and Cognition",
+        "description": "We explore the use of immersive technologies, such as virtual reality (VR) and augmented reality (AR), to enhance data analysis and understanding. ",
+        "paper": [
+            "2020-mp",
+            "2022-vrsd",
+            "2020-portalware"
+        ]   
+    }
+]
