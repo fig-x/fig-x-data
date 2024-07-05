@@ -51,6 +51,7 @@
 		"thumbnail": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/publication/2023-midterm.png",
 		"paper_id": "2023-midterm",
 		"pdf": "https://osf.io/qpyna/",
+		"demo": "https://forecasts.cs.northwestern.edu/2022-governors-elections",
 		"description": "We conducted a longitudinal experiment and measured the impacts of different visual designs in real eletions",
 		"repo": "https://osf.io/ajq8f/",
 		"doi": "https://doi.org/10.17605/OSF.IO/AJQ8F",
