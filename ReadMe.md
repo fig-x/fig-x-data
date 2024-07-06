@@ -22,7 +22,7 @@ These render [https://fig-x.github.io/people](https://fig-x.github.io/people).  
 The first object (this must be the first object!! so **don't move this**!) specify meta information: **category** and the displayed name. 
 
 ```json
- {  "current": "Current members",
+{  "current": "Current members",
     "current-non-human": "Non-human friends",
     "alumni": "Alumni"
 }
