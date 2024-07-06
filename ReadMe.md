@@ -22,7 +22,8 @@ These render [https://fig-x.github.io/people](https://fig-x.github.io/people).  
 The first object (this must be the first object!! so **don't move this**!) specify meta information: **category** and the displayed name. 
 
 ```json
-{  "current": "Current members",
+{
+    "current": "Current members",
     "current-non-human": "Non-human friends",
     "alumni": "Alumni"
 }
@@ -41,10 +42,10 @@ The others are people entries.
     "year": 2024,
     "month": 6,
     "nickname": "themachine"
-},
+}
 ```
 
-To add a person, just copy-add a similar entry, and also upload a headshort to `people/`.  The aspect ratio should be 1:1. Make sure the resolution is not too small nor too large. 
+To add a person, copy-add a similar entry to the json and upload a headshort to `people/`. The aspect ratio should be 1:1. Make sure the resolution is not too small or too large. 
 
 - If you don't have a field, you could leave it as `null` or `""`.   
 
@@ -56,7 +57,7 @@ To add a person, just copy-add a similar entry, and also upload a headshort to `
 
 - **Year** and **month** are the time when joining the lab, but it is loosely defined. This will be used to sort people by their seniority. 
   
-- **nickname** could be null or "". But this will be used as an id.
+- **nickname** could be null or "". This will be used as an id.
 
 
 ## research.json
@@ -76,7 +77,7 @@ This renders [https://fig-x.github.io/reseach](https://fig-x.github.io/reseach).
 
 ```
 
-The first line is used to render the headers and so on. Except for the paper list, I don't think we need to update these often. The paper list contains an id, specified in `publication.json`. The thumbnails on this page are read from `publication.json` too. The max number is 7 now. If there are more than 4 images, definitely **take a look at the page**, including **the mobile view**. If there are more than **7 papers** in an area, you need to **add an entry** in `index.css` (imagecard) and test it.
+The first line is used to render the headers and so on. Except for the paper list, I don't think we need to update these often. The paper list contains an id, specified in `publication.json`. The thumbnails on this page are read from `publication.json` too. The max number is 7 now. If there are more than 4 images, definitely **take a look at the page**, including **the mobile view**. If there are more than **7 papers** in an area, you need to **add an entry** in `index.css` (imagecard) in `fig-x.github.io` and test it.
 
 If we need to add an area, besides adding an entry, we need to add a line in the `research.js` (`fig-x.github.io`) to add an icon.
 
