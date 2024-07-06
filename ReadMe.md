@@ -12,6 +12,7 @@ To add **people**, maybe just notify me before hand.
 To add **artifact**, you may want to discuss with me briefly unless it's obvious (like a package or a library).      
 To add a new **research** area, hmmm, you definitely want to ask me.   But to add a paper to an existing area, you probably don't need to ask me.   
 After you edit them locally, push to the github, wait for 1-2 minutes, and then definitely check [fig-x.github.io](https://github.com/fig-x/fig-x.github.io/tree/main) to see if anything breaks. If we don't have a coding person, report to Fumeng. (If the problem is misspecified json, you should fix your json...)
+A headshot must have an aspect ratio of 1:1, and a paper thumbnail must have an aspect ratio of 16:9. Check for any large files! 
 
 
 ## people and people.json
@@ -43,7 +44,8 @@ The others are people entries.
 },
 ```
 
-To add a person, just copy-add a similar entry, and also upload a headshort to `people/`. 
+To add a person, just copy-add a similar entry, and also upload a headshort to `people/`.  The aspect ratio should be 1:1. Make sure the resolution is not too small nor too large. 
+
 - If you don't have a field, you could leave it as `null` or `""`.   
 
 - The **position** should be something like Ph.D. student. 
@@ -137,7 +139,7 @@ To add a paper
      "separator": "yyyy" 
 }`
 
-- Otherwise, just copy the paper entry and add one. Remember to upload the thumbnail to the `publication` folder.
+- Otherwise, just copy the paper entry and add one. Remember to upload the thumbnail to the `publication` folder. The aspect ratio of a thumbnail should be 16:9. Make sure the resolution is not too small nor too large. I've designed the thumbnail to be large to allow for details. But make sure it is not too complex. 
 
 - Also, remember to add the `paper_id` into the `research.json`. 
 
