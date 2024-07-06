@@ -140,13 +140,13 @@ To add a paper
      "separator": "yyyy" 
 }`
 
-- Otherwise, just copy the paper entry and add one. Remember to upload the thumbnail to the `publication` folder. The aspect ratio of a thumbnail should be 16:9. Make sure the resolution is not too small nor too large. I've designed the thumbnail to be large to allow for details. But make sure it is not too complex. 
+Otherwise, just copy the paper entry and add one. Remember to upload the thumbnail to the `publication` folder. A thumbnail's aspect ratio should be 16:9. Make sure the resolution is not too small or too large. I've designed the thumbnail to be large to allow for fine details, but make sure it is not too complex. 
 
 - Also, remember to add the `paper_id` into the `research.json`. 
 
 Note: 
 
-- The icon of paper award is hardcoded. So if there is anything other than Best paper or Honorable mention, we need to add a line in `Publication.js`
+- The icon of a paper award is hardcoded. So if there is anything other than Best paper or Honorable mention, we need to add a line in `Publication.js` (`fig-x.github.io`)
 
 - Please use `<text class = 'figx-name-style'> .. </text>` to indicate lab members.
 
@@ -177,8 +177,8 @@ To add one, copy and paste a new entry. **what** is the category above.
 },
 ```
 
-If the bubbles don't have the same height, it's a little urgly. Please for now, contact a similar length of sentences...or we can fix the height
+If the bubbles don't have the same height, it's a little urgily. Please, for now, contact a similar length of sentences...or we can fix the height.
 
-## logo, welcome and workwithus
+## logo, welcome and work with us
 
 These should be updated in the code repo.
