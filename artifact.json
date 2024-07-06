@@ -1,0 +1,26 @@
+[
+
+	["dataset", "website", "model", "tool", "library", "package", "interface"]
+	,
+	{
+		"what": "website",
+        "title": "Governor Election Forecasts",
+        "link": "https://forecasts.cs.northwestern.edu/2022-governors-elections",
+        "description": "This site provides our best guess of the outcomes of the 2022 governor elections in the U.S. Our forecast model predicts which of the two major party candidates is going to win in each state.",
+        "people": "Fumeng Yang"
+	},
+    {
+		"what": "model",
+        "title": "Governor Election Model",
+        "link": "https://github.com/MUCollective/2022-Governors-Forecast",
+        "description": "This repository provides our model forecast and outputs for 2022 U.S. governor elections.",
+        "people": "Fumeng Yang, Matthew Kay"
+	},
+    {
+		"what": "dataset",
+        "title": "&#129381; CocoVis",
+        "link": "https://forecasts.cs.northwestern.edu/2022-governors-elections",
+        "description": "This is a dataset with visualization images and judgments for correlation comparison.",
+        "people": "Fumeng Yang"
+	}
+]
