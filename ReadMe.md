@@ -1,10 +1,17 @@
-# Data file for fig-x.github.io
+# Data files for fig-x.github.io 
 
 Jul 6, 2024 by Fumeng Yang
 
-This repository contains the datasets used to render [fig-x.github.io](https://github.com/fig-x/fig-x.github.io/tree/main). I decided to separate data from the code to lower the bar for updating, though later it may be approved a bad idea. I anticipate that everyone should know how to update the website, but maybe we still need a web master to do this for checking and consistency. 
+This repository contains the datasets used to render [fig-x.github.io](https://github.com/fig-x/fig-x.github.io/tree/main). I decided to separate data from the code to lower the bar for updating, though later it may be proved a bad idea. I anticipate that everyone should know how to update the website, but we still need a web master to do this for checking and consistency. 
 
-Basically, you just need to look at json and add a similar entry in the json and upload images to the respective folders. You can pull this repo in your computer or just add information on Github. I would expect the webmaster to have this repo locally.
+Basically, you just need to (1) look at json and (2) add a similar entry in the json and  (3) upload images to the respective folders. You can pull this repo in your computer or just add information on Github. 
+
+I would expect the webmaster to have this repo locally and check the outcome.  
+> To add **publication**, I feel you don't need to ask me (Fumeng) for permission.    
+To add **people**, maybe just notify me before hand.    
+To add **artifact**, you may want to discuss with me briefly unless it's obvious (like a package or a library).      
+To add a new **research** area, hmmm, you definitely want to ask me.   But to add a paper to an existing area, you probably don't need to ask me.   
+After you edit them locally, push to the github, wait for 1-2 minutes, and then definitely check [fig-x.github.io](https://github.com/fig-x/fig-x.github.io/tree/main) to see if anything breaks. If we don't have a coding person, report to Fumeng. (If the problem is misspecified json, you should fix your json...)
 
 
 ## people and people.json
@@ -130,6 +137,8 @@ To add a paper
 
 - Otherwise, just copy the paper entry and add one. Remember to upload the thumbnail to the `publication` folder.
 
+- Also, remember to add the `paper_id` into the `research.json`. 
+
 Note: 
 
 - The icon of paper award is hardcoded. So if there is anything other than Best paper or Honorable mention, we need to add a line in `Publication.js`
@@ -138,4 +147,30 @@ Note:
 
 - Equal contribution - the first example is the rethinking paper. 
 
-## artifact
+## artifact.json
+
+Again, this is very similar to `publication.json` and `people.json`. 
+
+
+The first object is metadata to specify the category. Note that everything here has had an icon in the code. 
+
+```json
+["dataset", "website", "model", "tool", "library", "package", "interface"]
+```
+
+
+To add one, copy and paste a new entry. **what** is the category above.
+
+```json
+{
+    "what": "website",
+    "title": "Governor Election Forecasts",
+    "link": "https://forecasts.cs.northwestern.edu/2022-governors-elections",
+    "description": "This site provides our best guess of the outcomes of the 2022 governor elections in the U.S. Our forecast model predicts which of the two major party candidates is going to win in each state.",
+    "people": "Fumeng Yang"
+},
+```
+
+
+
+
