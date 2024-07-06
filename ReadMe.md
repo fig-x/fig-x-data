@@ -2,14 +2,14 @@
 
 Jul 6, 2024 by Fumeng Yang
 
-This repository contains the datasets used to render [fig-x.github.io](https://github.com/fig-x/fig-x.github.io/tree/main). I decided to separate data from the code to lower the bar for updating, though later it may be proved a bad idea. I anticipate that everyone should know how to update the website, but we still need a web master to do this for checking and consistency. 
+This repository contains the datasets used to render [fig-x.github.io](https://github.com/fig-x/fig-x.github.io/tree/main). I decided to separate data from the code to lower the bar for updating, though later it may be proved a bad idea. I anticipate that everyone should know how to update the website, but we still need a webmaster to do this for checking and consistency. 
 
 Basically, you just need to (1) look at the json and (2) add a similar entry in the json and  (3) upload images to the respective folders. You can pull this repo in your computer or just add information on Github. 
 
 I would expect the webmaster to have this repo locally and check the outcome.  
-> To add **publication**, I feel you don't need to ask me (Fumeng) for permission.    
-To add **people**, maybe just notify me before hand.    
-To add **artifact**, you may want to discuss with me briefly unless it's obvious (like a package or a library).      
+> To add **publication**, I feel you don't need to ask me/Fumeng for permission.    
+To add **people**, maybe just notify me beforehand.    
+To add **artifact**, you may want to discuss it with me briefly unless it's obvious, like a package or a library.      
 To add a new **research** area, hmmm, you definitely want to ask me.   But to add a paper to an existing area, you probably don't need to ask me.   
 After you edit them locally, push to the github, wait for 1-2 minutes, and then definitely check [fig-x.github.io](https://github.com/fig-x/fig-x.github.io/tree/main) to see if anything breaks. If we don't have a coding person, report to Fumeng. (If the problem is misspecified json, you should fix your json...)
 A headshot must have an aspect ratio of 1:1, and a paper thumbnail must have an aspect ratio of 16:9. Check for any large files! 
@@ -19,7 +19,7 @@ A headshot must have an aspect ratio of 1:1, and a paper thumbnail must have an 
 
 These render [https://fig-x.github.io/people](https://fig-x.github.io/people).  These two files specify the information of lab members and store their headshots. 
 
-The first object (this must be the first object!! so **don't move this**!) specify meta information: **catergory** and the displayed name. 
+The first object (this must be the first object!! so **don't move this**!) specify meta information: **category** and the displayed name. 
 
 ```json
  {  "current": "Current members",
@@ -52,16 +52,16 @@ To add a person, just copy-add a similar entry, and also upload a headshort to `
   
 - The **quote** field ideally should be your research focus. 
   
-- The **category** could be current, current-non-human, or alumni. If we need new category, we need to add to `People.js`. 
+- The **category** could be current, current-non-human, or alumni. If we need a new category, we need to add it to `People.js`. 
 
-- **Year** and **month** are the time when joining the lab, but it is loosely defined. This will be used to sort people by their senority. 
+- **Year** and **month** are the time when joining the lab, but it is loosely defined. This will be used to sort people by their seniority. 
   
 - **nickname** could be null or "". But this will be used as an id.
 
 
 ## research.json
 
-This renders [https://fig-x.github.io/reseach](https://fig-x.github.io/reseach). It contains an array of area. And each area entry looks like
+This renders [https://fig-x.github.io/reseach](https://fig-x.github.io/reseach). It contains an array of areas. And each area entry looks like
 
 ```json
 {
@@ -85,9 +85,9 @@ If we need to add an area, besides adding an entry, we need to add a line in the
 ## publication and publication.json
 
 These render [https://fig-x.github.io/publication](https://fig-x.github.io/publication).  
-These two files have a very similar structure to `people` and `people.json`. `publication.json` needs to follow the time order. The order is reflected in the webpage, because I feel it might be a little difficult to automatically sort them while it is not too hard to maintain the consistency...
+These two files have a very similar structure to `people` and `people.json`. `publication.json` needs to follow the time order. The order is reflected on the webpage because I feel it might be a little difficult to automatically sort them while it is not too hard to maintain consistency...
 
-The first object specifies all abbreviations and the respecitive full names. These will be used to render papers such that the publication venues are consistent. Note that this must be the first object! This is also used to render the statistics (e.g. CHI (x)) on the top of the page.
+The first object specifies all abbreviations and the respective full names. These will be used to render papers so that the publication venues are consistent. Note that this must be the first object! This is also used to render the statistics (e.g. CHI (x)) on the top of the page.
 
 ```json
 {
@@ -100,7 +100,7 @@ The first object specifies all abbreviations and the respecitive full names. The
 }
 ```
 
-The second object is a seperator like this. 
+The second object is a separator like this. 
 
 ```json
 {
@@ -110,7 +110,7 @@ The second object is a seperator like this.
 
 The others are paper entries published falling into the range of `separator`. I think most of them are self-explanatory. 
 
-I **require** (Ihate this condescending word) each paper to have at least **title**, **people**, **year**, **paper_id** (please follow `yyyy-nickname`, this is used to render the research page), **description** (one sentence pitch), **pdf**, and **abbr**. You should also to have at least **doi**. The **repo** field is displayed as supplementary materials. The other fields could be null or `""`.
+I **require** (Ihate this condescending word) each paper to have at least **title**, **people**, **year**, **paper_id** (please follow `yyyy-nickname`, this is used to render the research page), **description** (one sentence pitch), **pdf**, and **abbr**. You should also have at least **doi**. The **repo** field is displayed as supplementary materials. The other fields could be null or `""`.
 
 ```json
 {
@@ -157,7 +157,7 @@ This renders [https://fig-x.github.io/artifact](https://fig-x.github.io/artifact
 
 Again, this is very similar to `publication.json` and `people.json`. 
 
-The first object is metadata to specify the category. Note that everything here has had an icon in the code. 
+The first object is metadata, which specifies the category. Note that everything here has had an icon in the code. 
 
 ```json
 ["dataset", "website", "model", "tool", "library", "package", "interface"]
