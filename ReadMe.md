@@ -31,6 +31,16 @@ If we need to add an area, besides adding an entry, we need to add a line in the
 
 These two files specify the information of lab members and store their headshots. 
 
+The first object (this must be the first object!!) specify meta information: **catergory** and the displayed name. 
+
+```json
+ {  "current": "Current members",
+    "current-non-human": "Non-human friends",
+    "alumni": "Alumni"}
+```
+
+The others 
+
 ```json
    {
         "name": "Fumeng Yang",
