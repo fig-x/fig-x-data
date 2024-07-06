@@ -171,13 +171,12 @@ To add one, copy and paste a new entry. **what** is the category above.
     "what": "website",
     "title": "Governor Election Forecasts",
     "link": "https://forecasts.cs.northwestern.edu/2022-governors-elections",
-    "description": "This site provides our best guess of the outcomes of the 2022 governor elections in the U.S. Our forecast model predicts which of the two major party candidates is going to win in each state.",
+    "description": "This site provides our best guess of the outcomes of the 2022 governor elections in the U.S.",
     "people": "Fumeng Yang"
 },
 ```
 
-
-
+If the bubbles don't have the same height, it's a little urgly. Please for now, contact a similar length of sentences...or we can fix the height
 
 ## logo, welcome and workwithus
 
