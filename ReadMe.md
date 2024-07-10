@@ -60,7 +60,7 @@ To add a person, copy-add a similar entry to the json and upload a headshort to 
   
 - **nickname** could be null or "". This will be used as an id.
 
-- **sorting** could be `prof`, `phd`, `master`, or `undergrad`. This variable is used in sorting the order. If we have someone other than these, we need to change the `People.js`.
+- **sorting** could be `prof`, `phd`, `master`, or `undergrad`. This variable is used in sorting the order. If we have someone other than these, we need to change the `People.js`. It doesn't matter if it is `pet`.
 
 
 ## research.json
