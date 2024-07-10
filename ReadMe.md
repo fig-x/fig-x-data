@@ -2,7 +2,7 @@
 
 Jul 6, 2024 by Fumeng Yang
 
-This repository contains the datasets used to render [fig-x.github.io](https://github.com/fig-x/fig-x.github.io/tree/main). I decided to separate data from the code to lower the bar for updating, though later it may be proved a bad idea. I anticipate that everyone should know how to update the website, but we still need a webmaster to do this for checking and consistency. 
+This repository contains the datasets used to render [fig-x.github.io](https://github.com/fig-x/fig-x.github.io/tree/main). I decided to separate data from the code to lower the bar for updating, though later, it may prove to be a bad idea. I anticipate that everyone should know how to update the website, but we still need a webmaster to do this for checking and consistency. 
 
 Basically, you just need to (1) look at the json and (2) add a similar entry in the json and  (3) upload images to the respective folders. You can pull this repo in your computer or just add information on Github. 
 
@@ -11,7 +11,7 @@ I would expect the webmaster to have this repo locally and check the outcome.
 To add **people**, maybe just notify me beforehand.    
 To add **artifact**, you may want to discuss it with me briefly unless it's obvious, like a package or a library.      
 To add a new **research** area, hmmm, you definitely want to ask me.   But to add a paper to an existing area, you probably don't need to ask me.   
-After you edit them locally, push to the github, wait for 1-2 minutes, and then definitely check [fig-x.github.io](https://github.com/fig-x/fig-x.github.io/tree/main) to see if anything breaks. If we don't have a coding person, report to Fumeng. (If the problem is misspecified json, you should fix your json...)
+After you edit them locally, push to the github, wait for 1-2 minutes, and then definitely check [fig-x.github.io](https://github.com/fig-x/fig-x.github.io/tree/main) to see if anything breaks. If there is a bug and we don't have a coding person, report it to Fumeng. (If the problem is misspecified json, you should fix your json...)   
 A headshot must have an aspect ratio of 1:1, and a paper thumbnail must have an aspect ratio of 16:9. Check for any large files! 
 
 
@@ -22,7 +22,8 @@ These render [https://fig-x.github.io/people](https://fig-x.github.io/people).  
 The first object (this must be the first object!! so **don't move this**!) specify meta information: **category** and the displayed name. 
 
 ```json
- {  "current": "Current members",
+{
+    "current": "Current members",
     "current-non-human": "Non-human friends",
     "alumni": "Alumni"
 }
@@ -42,10 +43,10 @@ The others are people entries.
     "month": 6,
     "nickname": "themachine",
     "sorting": "prof"
-},
+}
 ```
 
-To add a person, just copy-add a similar entry, and also upload a headshort to `people/`.  The aspect ratio should be 1:1. Make sure the resolution is not too small nor too large. 
+To add a person, copy-add a similar entry to the json and upload a headshort to `people/`. The aspect ratio should be 1:1. Make sure the resolution is not too small or too large. 
 
 - If you don't have a field, you could leave it as `null` or `""`.   
 
@@ -57,7 +58,7 @@ To add a person, just copy-add a similar entry, and also upload a headshort to `
 
 - **Year** and **month** are the time when joining the lab, but it is loosely defined. This will be used to sort people by their seniority. 
   
-- **nickname** could be null or "". But this will be used as an id.
+- **nickname** could be null or "". This will be used as an id.
 
 - **sorting** could be `prof`, `phd`, `master`, or `undergrad`. This variable is used in sorting the order. If we have someone other than these, we need to change the `People.js`.
 
@@ -79,7 +80,7 @@ This renders [https://fig-x.github.io/reseach](https://fig-x.github.io/reseach).
 
 ```
 
-The first line is used to render the headers and so on. Except for the paper list, I don't think we need to update these often. The paper list contains an id, specified in `publication.json`. The thumbnails on this page are read from `publication.json` too. The max number is 7 now. If there are more than 4 images, definitely **take a look at the page**, including **the mobile view**. If there are more than **7 papers** in an area, you need to **add an entry** in `index.css` (imagecard) and test it.
+The first line is used to render the headers and so on. Except for the paper list, I don't think we need to update these often. The paper list contains an id, specified in `publication.json`. The thumbnails on this page are read from `publication.json` too. The max number is 7 now. If there are more than 4 images, definitely **take a look at the page**, including **the mobile view**. If there are more than **7 papers** in an area, you need to **add an entry** in `index.css` (imagecard) in `fig-x.github.io` and test it.
 
 If we need to add an area, besides adding an entry, we need to add a line in the `research.js` (`fig-x.github.io`) to add an icon.
 
@@ -142,13 +143,13 @@ To add a paper
      "separator": "yyyy" 
 }`
 
-- Otherwise, just copy the paper entry and add one. Remember to upload the thumbnail to the `publication` folder. The aspect ratio of a thumbnail should be 16:9. Make sure the resolution is not too small nor too large. I've designed the thumbnail to be large to allow for details. But make sure it is not too complex. 
+Otherwise, just copy the paper entry and add one. Remember to upload the thumbnail to the `publication` folder. A thumbnail's aspect ratio should be 16:9. Make sure the resolution is not too small or too large. I've designed the thumbnail to be large to allow for fine details, but make sure it is not too complex. 
 
 - Also, remember to add the `paper_id` into the `research.json`. 
 
 Note: 
 
-- The icon of paper award is hardcoded. So if there is anything other than Best paper or Honorable mention, we need to add a line in `Publication.js`
+- The icon of a paper award is hardcoded. So if there is anything other than Best paper or Honorable mention, we need to add a line in `Publication.js` (`fig-x.github.io`)
 
 - Please use `<text class = 'figx-name-style'> .. </text>` to indicate lab members.
 
@@ -179,8 +180,8 @@ To add one, copy and paste a new entry. **what** is the category above.
 },
 ```
 
-If the bubbles don't have the same height, it's a little urgly. Please for now, contact a similar length of sentences...or we can fix the height
+If the bubbles don't have the same height, it's a little urgily. Please, for now, contact a similar length of sentences...or we can fix the height.
 
-## logo, welcome and workwithus
+## logo, welcome and work with us
 
 These should be updated in the code repo.
