@@ -12,7 +12,8 @@
         "category": "current",
         "year": 2024,
         "month": 6,
-        "nickname": "themachine"
+        "nickname": "themachine",
+        "sorting": "ap"
     },
     {
         "name": "The Seaweeds",
@@ -23,6 +24,7 @@
         "category": "current-non-human",
         "year": 2024,
         "month": 6,
-        "nickname": "theseaweeds"
+        "nickname": "theseaweeds",
+        "sorting": "pet"
     }
 ]

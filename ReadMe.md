@@ -40,7 +40,8 @@ The others are people entries.
     "category": "current",
     "year": 2024,
     "month": 6,
-    "nickname": "themachine"
+    "nickname": "themachine",
+    "sorting": "prof"
 },
 ```
 
@@ -57,6 +58,8 @@ To add a person, just copy-add a similar entry, and also upload a headshort to `
 - **Year** and **month** are the time when joining the lab, but it is loosely defined. This will be used to sort people by their seniority. 
   
 - **nickname** could be null or "". But this will be used as an id.
+
+- **sorting** could be `prof`, `phd`, `master`, or `undergrad`. This variable is used in sorting the order. If we have someone other than these, we need to change the `People.js`.
 
 
 ## research.json
