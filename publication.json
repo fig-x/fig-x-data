@@ -10,6 +10,39 @@
 	}
 	,
 	{
+		"separator": "2024" 
+	}
+	,
+	{
+		"title": "The Backstory to “Swaying the Public”: A Design Chronicle of Election Forecast Visualizations",
+		"people": "<text class = 'figx-name-style'>Fumeng Yang</text>, Mandi Cai, Chloe Mortenson, Hoda Fakhari, Ayse D. Lokmanoglu, Nicholas Diakopoulos, Erik C. Nisbet, Matthew Kay",
+		"year": "2024",
+		"thumbnail": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/publication/2024-backstory.png",
+		"paper_id": "2024-backstory",
+		"description": "How we designed the election forecast visualizations for the 2022 governor elections",
+		"pdf": "https://osf.io/preprints/osf/s6jzd",
+		"video": "",
+		"repo": "https://www.doi.org/10.17605/osf.io/ygq2v",
+		"doi": "https://www.doi.org/10.17605/osf.io/ygq2v",
+		"demo": "",
+		"awards": "",
+		"abbr": "VIS"
+	},
+	{
+		"title": "Adaptive Assessment of Visualization Literacy",
+		"people": "Yuan (Charles) Cui, Lily W. Ge, Yiren Ding, Lane Harrison,  <text class = 'figx-name-style'>Fumeng Yang</text>, Matthew Kay",
+		"year": "2024",
+		"video": null,
+		"thumbnail": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/publication/2024-vila.png",
+		"pdf": "",
+		"paper_id": "2023-vila",
+		"description": "We used LLM to generate high-quality visualization items acrossing multiple cognitive levels",
+		"repo": "",
+		"abbr": "VIS",
+		"doi": "",
+		"awards": null
+	},
+	{
      "separator": "Prior to UMD" 
 	}
 	,
