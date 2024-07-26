@@ -36,7 +36,7 @@
 		"thumbnail": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/publication/2024-vila.png",
 		"pdf": "https://osf.io/au3er",
 		"paper_id": "2024-vila",
-		"description": "We used LLM to generate high-quality visualization items acrossing multiple cognitive levels",
+		"description": "We designed a vila pipeline which uses LLM to generate high-quality visualization items acrossing multiple cognitive levels",
 		"repo": "https://osf.io/ysrhq/",
 		"abbr": "VIS",
 		"doi": "",

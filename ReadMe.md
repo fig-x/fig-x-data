@@ -145,7 +145,7 @@ To add a paper
 
 Otherwise, just copy the paper entry and add one. Remember to upload the thumbnail to the `publication` folder. A thumbnail's aspect ratio should be 16:9. Make sure the resolution is not too small or too large. I've designed the thumbnail to be large to allow for fine details, but make sure it is not too complex. 
 
-- Also, remember to add the `paper_id` into the `research.json`. 
+- Also, remember to add the `paper_id` into the `research.json` if suitable. And add them to `news.json` (note you might need to follow a specific format for the links.)  
 
 Note: 
 
