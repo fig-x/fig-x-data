@@ -19,7 +19,7 @@
     {
 		"what": "dataset",
         "title": "&#129381; CocoVis",
-        "link": "https://forecasts.cs.northwestern.edu/2022-governors-elections",
+        "link": "https://www.kaggle.com/datasets/philomeneyang/cocovis",
         "description": "This is a dataset with visualization images and judgments for correlation comparison.",
         "people": "Fumeng Yang"
 	}
