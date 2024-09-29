@@ -70,6 +70,20 @@
     }
     ,
     {
+        "abbrv": "vtl",
+        "name": "Visual Thinking lab",
+       "website": "https://visualthinking.psych.northwestern.edu/",
+       "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/friends/vtl-logo.png",
+       "position": "Northwestern University",
+       "quote": "",
+       "category": "partner-lab",
+       "year": "",
+       "month": "",
+       "nickname": "vtl",
+       "sorting": ""
+   }
+   ,
+    {
         "abbrv": "HDI",
         "name": "Human-Data Interaction Group",
         "website": "https://hdi.cs.umd.edu/",
