@@ -1,6 +1,7 @@
 [
     {"current": "Current members",
-    "current-non-human": "Non-human friends",
+    "current-non-human": "Non-human members",
+    "partner-lab": "Our friends",
     "alumni": "Alumni"}
     ,
     {
@@ -16,6 +17,18 @@
         "sorting": "prof"
     },
     {
+        "name": "Thushan Ranasinghe",
+        "website": "https://www.linkedin.com/in/thushan-ranasinghe/",
+        "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/turtle.png",
+        "position": "Undergraduate Researcher Assistant",
+        "quote": "LLM, visualization items",
+        "category": "current",
+        "year": 2024,
+        "month": 9,
+        "nickname": "thushan",
+        "sorting": "ug"
+    },
+    {
         "name": "The Seaweeds",
         "website": "",
         "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/theseaweed.png",
@@ -27,4 +40,115 @@
         "nickname": "theseaweeds",
         "sorting": "pet"
     }
+    ,
+    {
+        "abbrv": "BVC",
+        "name": "Brown Visual Computing Group",
+        "website": "https://visual.cs.brown.edu/",
+        "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/friends/bvc-logo.png",
+        "position": "Brown University",
+        "quote": "",
+        "category": "partner-lab",
+        "year": "",
+        "month": "",
+        "nickname": "bvc",
+        "sorting": ""
+    }
+    ,
+    {
+        "abbrv": "EmD",
+        "name": "Embodied Dynamics Lab",
+        "website": "https://emd.cs.umd.edu/",
+        "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/friends/emd-logo.png",
+        "position": "University of Maryland, College Park",
+        "quote": "",
+        "category": "partner-lab",
+        "year": "",
+        "month": "",
+        "nickname": "emd",
+        "sorting": ""
+    }
+    ,
+    {
+        "abbrv": "HDI",
+        "name": "Human-Data Interaction Group",
+        "website": "https://hdi.cs.umd.edu/",
+        "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/friends/hdi-logo.png",
+        "position": "University of Maryland, College Park",
+        "quote": "",
+        "category": "partner-lab",
+        "year": "",
+        "month": "",
+        "nickname": "hdi",
+        "sorting": ""
+    }
+    ,
+    {
+         "abbrv": "MU",
+         "name": "Midwest Unicertainty Collective Lab",
+        "website": "https://mucollective.northwestern.edu/",
+        "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/friends/mu-logo.png",
+        "position": "Northwestern University",
+        "quote": "",
+        "category": "partner-lab",
+        "year": "",
+        "month": "",
+        "nickname": "mu",
+        "sorting": ""
+    }
+    ,
+    {
+        "abbrv": "VIEW",
+        "name": "VIEW Lab",
+        "website": "https://wpivis.github.io/",
+        "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/friends/view-logo.png",
+        "position": "Worcester Polytechnic Institute",
+        "quote": "",
+        "category": "partner-lab",
+        "year": "",
+        "month": "",
+        "nickname": "view",
+        "sorting": ""
+    }, 
+    {
+        "abbrv": "VRL",
+        "name": "Visualization Research Lab",
+        "website": "http://vis.cs.brown.edu/",
+        "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/friends/vrl-logo.png",
+        "position": "Brown University",
+        "quote": "",
+        "category": "partner-lab",
+        "year": "",
+        "month": "",
+        "nickname": "vrl",
+        "sorting": ""
+    }
+    , 
+    {
+        "abbrv": "VALT",
+        "name": "Visual Analytics Laboratory",
+        "website": "https://valt.cs.tufts.edu/",
+        "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/friends/valt-logo.png",
+        "position": "Tufts University",
+        "quote": "",
+        "category": "partner-lab",
+        "year": "",
+        "month": "",
+        "nickname": "valt",
+        "sorting": ""
+    }, 
+    {
+        "abbrv": "Molly",
+        "name": "Molloy Lab",
+        "website": "https://ekmolloy.github.io/",
+        "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/friends/molly-logo.png",
+        "position": "University of Maryland, College Park",
+        "quote": "",
+        "category": "partner-lab",
+        "year": "",
+        "month": "",
+        "nickname": "molly",
+        "sorting": ""
+    }
+    
 ]
