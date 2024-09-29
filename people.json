@@ -1,9 +1,10 @@
 [
-    {"current": "Current members",
-    "current-non-human": "Non-human members",
-    "partner-lab": "Our friends",
-    "alumni": "Alumni"}
-    ,
+    {
+        "current": "Current members",
+        "current-non-human": "Non-human members",
+        "partner-lab": "Our friends",
+        "alumni": "Alumni"
+    },
     {
         "name": "Fumeng Yang",
         "website": "https://www.fmyang.com/",
@@ -13,7 +14,7 @@
         "category": "current",
         "year": 2024,
         "month": 6,
-        "nickname": "themachine",
+        "nickname": "fy",
         "sorting": "prof"
     },
     {
@@ -39,8 +40,7 @@
         "month": 6,
         "nickname": "theseaweeds",
         "sorting": "pet"
-    }
-    ,
+    },
     {
         "abbrv": "BVC",
         "name": "Brown Visual Computing Group",
@@ -53,8 +53,7 @@
         "month": "",
         "nickname": "bvc",
         "sorting": ""
-    }
-    ,
+    },
     {
         "abbrv": "EmD",
         "name": "Embodied Dynamics Lab",
@@ -67,22 +66,20 @@
         "month": "",
         "nickname": "emd",
         "sorting": ""
-    }
-    ,
+    },
     {
         "abbrv": "vtl",
         "name": "Visual Thinking Lab",
-       "website": "https://visualthinking.psych.northwestern.edu/",
-       "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/friends/vtl-logo.png",
-       "position": "Northwestern University",
-       "quote": "",
-       "category": "partner-lab",
-       "year": "",
-       "month": "",
-       "nickname": "vtl",
-       "sorting": ""
-   }
-   ,
+        "website": "https://visualthinking.psych.northwestern.edu/",
+        "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/friends/vtl-logo.png",
+        "position": "Northwestern University",
+        "quote": "",
+        "category": "partner-lab",
+        "year": "",
+        "month": "",
+        "nickname": "vtl",
+        "sorting": ""
+    },
     {
         "abbrv": "HDI",
         "name": "Human-Data Interaction Group",
@@ -95,11 +92,10 @@
         "month": "",
         "nickname": "hdi",
         "sorting": ""
-    }
-    ,
+    },
     {
-         "abbrv": "MU",
-         "name": "Midwest Uncertainty Collective Lab",
+        "abbrv": "MU",
+        "name": "Midwest Uncertainty Collective Lab",
         "website": "https://mucollective.northwestern.edu/",
         "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/friends/mu-logo.png",
         "position": "Northwestern University",
@@ -109,8 +105,7 @@
         "month": "",
         "nickname": "mu",
         "sorting": ""
-    }
-    ,
+    },
     {
         "abbrv": "VIEW",
         "name": "VIEW Lab",
@@ -123,7 +118,7 @@
         "month": "",
         "nickname": "view",
         "sorting": ""
-    }, 
+    },
     {
         "abbrv": "VRL",
         "name": "Visualization Research Lab",
@@ -136,8 +131,7 @@
         "month": "",
         "nickname": "vrl",
         "sorting": ""
-    }
-    , 
+    },
     {
         "abbrv": "VALT",
         "name": "Visual Analytics Laboratory at Tufts",
@@ -150,7 +144,7 @@
         "month": "",
         "nickname": "valt",
         "sorting": ""
-    }, 
+    },
     {
         "abbrv": "Molly",
         "name": "Molloy Lab",
@@ -164,5 +158,4 @@
         "nickname": "molly",
         "sorting": ""
     }
-    
 ]
