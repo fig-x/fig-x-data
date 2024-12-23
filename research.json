@@ -1,10 +1,20 @@
 [
     {
-        "area": "Quantifying and Improving AI Literacy",
+        "area": "AI Decision-making & Literacy",
         "core": "",
         "description": "AI literacy defines the abiliteis of individuals to understand, interact with, and critically evaluate artificial intelligence techniques and systems. We quantify and improve people's AI literacy to enhance trust, accountability, and decision-making. ",
         "paper": [
             ""
+        ]
+    },
+    {
+        "area": "Uncertainty Communication and Election Forecasts",
+        "description": "We explore how to convey the inherent uncertainties in model predictions to the general public. Our work focuses on developing visual methods for journalists to present probabilistic electoral forecasts. We also investigate the impact of such reporting on voter behavior and trust in the electoral process. ",
+        "paper": [
+            "2024-dice",
+            "2023-midterm",
+            "2023-bias-correction",
+            "2024-backstory"
         ]
     },
     {
@@ -14,16 +24,6 @@
         "paper": [
             "2020-ml-trust",
             "2024-dice"
-        ]
-    },
-    {
-        "area": "Uncertainty Communication and Decision-making",
-        "description": "We explore how to convey the inherent uncertainties in model predictions to the general public. Our work focuses on developing visual methods for journalists to present probabilistic electoral forecasts. We also investigate the impact of such reporting on voter behavior and trust in the electoral process. ",
-        "paper": [
-            "2024-dice",
-            "2023-midterm",
-            "2023-bias-correction",
-            "2024-backstory"
         ]
     },
     {
