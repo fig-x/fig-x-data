@@ -18,12 +18,36 @@
         "sorting": "prof"
     },
     {
+        "name": "Yuan \"Charles\" Cui",
+        "website": "https://digital-flaneur.github.io/",
+        "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/Charles-Cui.jpg",
+        "position": "Visiting Ph.D. Student",
+        "quote": "LLM, Assessmemnts, Literacy",
+        "category": "current",
+        "year": 2024,
+        "month": 12,
+        "nickname": "charles",
+        "sorting": "phd"
+    },
+    {
+        "name": "Yixin \"Georgia\" Bai",
+        "website": "https://www.linkedin.com/in/georgia-yixin-bai-166578305/",
+        "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/Georgia-Bai.jpg",
+        "position": "Masters Student",
+        "quote": "AI decision-making",
+        "category": "current",
+        "year": 2024,
+        "month": 12,
+        "nickname": "georgia",
+        "sorting": "master"
+    },
+    {
         "name": "Thushan Ranasinghe",
         "website": "https://www.linkedin.com/in/thushan-ranasinghe/",
         "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/Thushan-Ranasinghe.png",
         "position": "Undergraduate Research Assistant",
         "quote": "LLM, Visualization Items",
-        "category": "current",
+        "category": "alumni",
         "year": 2024,
         "month": 9,
         "nickname": "thushan",
