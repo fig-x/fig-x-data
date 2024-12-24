@@ -23,7 +23,7 @@
 		"pdf": "https://doi.org/10.31219/osf.io/927vy",
 		"video": "https://youtu.be/6EDLSok9BB0",
 		"repo": "https://www.doi.org/10.17605/osf.io/ygq2v",
-		"doi": "https://www.doi.org/10.17605/osf.io/ygq2v",
+		"doi": "https://doi.org/10.1109/TVCG.2024.3456366",
 		"demo": "",
 		"awards": "",
 		"abbr": "VIS"
@@ -36,10 +36,10 @@
 		"thumbnail": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/publication/2024-vila.png",
 		"pdf": "https://osf.io/au3er",
 		"paper_id": "2024-vila",
-		"description": "We designed a vila pipeline which uses LLM to generate high-quality visualization items acrossing multiple cognitive levels",
+		"description": "We designed a vila pipeline that uses LLM to generate high-quality visualization items across multiple cognitive levels",
 		"repo": "https://osf.io/ysrhq/",
 		"abbr": "VIS",
-		"doi": "",
+		"doi": "https://doi.org/10.1109/TVCG.2024.3456309",
 		"awards": null
 	},
 	{
