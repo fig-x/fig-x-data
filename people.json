@@ -118,6 +118,19 @@
         "sorting": ""
     },
     {
+        "abbrv": "HCIL",
+        "name": "Human-Computer Interaction Lab",
+        "website": "https://hcil.umd.edu/",
+        "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/friends/hcil-logo.png",
+        "position": "University of Maryland, College Park",
+        "quote": "",
+        "category": "partner-lab",
+        "year": "",
+        "month": "",
+        "nickname": "hcil",
+        "sorting": ""
+    },
+    {
         "abbrv": "MU",
         "name": "Midwest Uncertainty Collective Lab",
         "website": "https://mucollective.northwestern.edu/",
