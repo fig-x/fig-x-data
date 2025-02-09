@@ -27,7 +27,7 @@
 		"demo": "",
 		"awards": "",
 		"abbr": "CHI",
-		"equal_contr": true
+		"equal_contr": "<sup class='snowflake'>❊</sup> Equal mentorship; Zeng is the corresponding author & PI."
 	}
 	,
 	{
@@ -183,7 +183,7 @@
 		"description": "The conventional ranking did not hold, even for only 2 marks, and the new probabilistic ranking was highly inconsistent for different numbers of marks",
 		"repo": "https://doi.org/10.17605/OSF.IO/3E2QT",
 		"doi": "https://doi.org/10.1109/TVCG.2021.3114684",
-		"equal_contr": true,
+		"equal_contr": "<sup class='snowflake'>❊</sup> Equal contributions."
 		"awards": "Honorable Mention Award (top 5%)"
 	},
 	{
