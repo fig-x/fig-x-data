@@ -16,6 +16,7 @@
 	{
 		"title": "Seeing Through the Overlap: The Impact of Color and Opacity on Depth Order Perception in Visualization",
 		"people": "Zhiyuan Meng, Yunpeng Yang, Qiong Zeng<sup class='snowflake'>❊</sup>, Kecheng Lu, Lin Lu, Changehe Tu, <text class = 'figx-name-style'>Fumeng Yang</text><sup class='snowflake'>❊</sup>, Yunhai Wang",
+		"year": 2025,
 		"thumbnail": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/publication/2025-depth.png",
 		"paper_id": "2025-depth",
 		"description": "We comprehensively examine the effects of color, opacity, and their interactions on depth perception",
