@@ -2,8 +2,9 @@
     {
         "current": "Current members",
         "current-non-human": "Non-human members",
-        "partner-lab": "Our partners",
-        "alumni": "Alumni"
+        "alumni": "Alumni",
+        "student-col": "Student collaborators",
+        "partner-lab": "Partner labs"
     },
     {
         "name": "Fumeng Yang",
@@ -23,6 +24,7 @@
         "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/Charles-Cui.jpg",
         "position": "Visiting Ph.D. Student",
         "quote": "LLM, Education & Literacy",
+        "placement": null,
         "category": "current",
         "year": 2024,
         "month": 12,
@@ -39,7 +41,8 @@
         "year": 2024,
         "month": 12,
         "nickname": "georgia",
-        "sorting": "master"
+        "sorting": "master",
+        "placement": null
     },
     {
         "name": "Divahar Sivanesan",
@@ -51,7 +54,8 @@
         "year": 2025,
         "month": 1,
         "nickname": "divahar",
-        "sorting": "master"
+        "sorting": "master",
+        "placement": null
     },
     {
         "name": "Thushan Ranasinghe",
@@ -63,7 +67,11 @@
         "year": 2024,
         "month": 9,
         "nickname": "thushan",
-        "sorting": "ug"
+        "sorting": "ug",
+        "placement": null
+    },
+    {
+        "placeholder": "======================== pets begin ===================="
     },
     {
         "name": "The Seaweeds",
@@ -76,6 +84,108 @@
         "month": 6,
         "nickname": "theseaweeds",
         "sorting": "pet"
+    },
+    {
+        "placeholder": "======================== student collaborators begin ========================"
+    },
+    {
+        "name": "Nishant Balepur",
+        "website": "https://nbalepur.github.io/",
+        "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/student-col/Nishant-Deepa-Balepur.png",
+        "position": "Ph.D. student at University of Maryland, College Park",
+        "quote": "LLM alignment, personalization",
+        "category": "student-col",
+        "graduated": "",
+        "nickname": "nishant",
+        "sorting": "phd",
+        "placement": null
+    },
+    {
+        "name": "Zoey \"Dayeon\" Ki",
+        "website": "https://dayeonki.github.io/",
+        "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/student-col/Zoey-Ki.jpeg",
+        "position": "Ph.D. student at University of Maryland, College Park",
+        "quote": "Multilingual, Cross-cultural NLP, Machine Translation",
+        "category": "student-col",
+        "graduated": "",
+        "nickname": "zoey",
+        "sorting": "phd",
+        "placement": null
+    },
+    {
+        "name": "Yu \"Hope\" Hou",
+        "website": "https://houyu0930.github.io/",
+        "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/student-col/Hope-Yu.jpg",
+        "position": "Ph.D. student at University of Maryland, College Park",
+        "quote": "Human-centered and Socio-culturally Aware AI",
+        "category": "student-col",
+        "graduated": "",
+        "nickname": "hope",
+        "sorting": "phd",
+        "placement": null
+    },
+    {
+        "name": "Kyungyeon Lee",
+        "website": "https://kylee.vercel.app/",
+        "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/student-col/Kyungyeon-Lee.png",
+        "position": "Ph.D. student at University of Maryland, College Park",
+        "quote": "Haptics, Wearables",
+        "category": "student-col",
+        "graduated": "",
+        "nickname": "kyungyeon",
+        "sorting": "phd",
+        "placement": null
+    },
+    {
+        "name": "Yuexi \"Tracy\" Chen",
+        "website": "https://tracyyxchen.github.io/",
+        "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/student-col/Tracy-Chen.jpg",
+        "position": "Ph.D. student at University of Maryland, College Park",
+        "quote": "AI-infused tools, Human-AI interaction",
+        "category": "student-col",
+        "graduated": "",
+        "nickname": "tracy",
+        "sorting": "phd",
+        "placement": null
+    },
+    {
+        "name": "Xiaoyu Liu",
+        "website": "",
+        "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/student-col/Xiaoyu-Liu.jpg",
+        "position": "Ph.D. student at University of Maryland, College Park",
+        "quote": "Infographics, Visualization",
+        "category": "student-col",
+        "graduated": "",
+        "nickname": "xiaoyu",
+        "sorting": "phd",
+        "placement": null
+    },
+    {
+        "name": "Ouxun Jiang",
+        "website": "https://ouxunjiang.wixsite.com/site",
+        "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/student-col/Ouxun-Jiang.png",
+        "position": "Ph.D. student at Northwestern University",
+        "quote": "Animated Visualization, Perception",
+        "category": "student-col",
+        "graduated": "",
+        "nickname": "ouxun",
+        "sorting": "phd",
+        "placement": null
+    },
+    {
+        "name": "Mandi Cai",
+        "website": "https://mandilicai.com/",
+        "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/student-col/Mandi-Cai.jpeg",
+        "position": "Ph.D. student at Northwestern University",
+        "quote": "Live election, Data Journalism",
+        "category": "student-col",
+        "graduated": "",
+        "nickname": "mandi",
+        "sorting": "phd",
+        "placement": null
+    },
+    {
+        "placeholder": "======================== partner labs begin ========================"
     },
     {
         "abbrv": "BVC",
