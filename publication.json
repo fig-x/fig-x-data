@@ -10,6 +10,27 @@
 	}
 	,
 	{
+		"separator": "2025" 
+	}
+	,
+	{
+		"title": "Seeing Through the Overlap: The Impact of Color and Opacity on Depth Order Perception in Visualization",
+		"people": "Zhiyuan Meng, Yunpeng Yang, Qiong Zeng<sup class='snowflake'>❊</sup>, Kecheng Lu, Lin Lu, Changehe Tu, <text class = 'figx-name-style'>Fumeng Yang</text><sup class='snowflake'>❊</sup>, Yunhai Wang",
+		"year": 2025,
+		"thumbnail": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/publication/2025-depth.png",
+		"paper_id": "2025-depth",
+		"description": "We comprehensively examine color, opacity, and their interaction for depth perception", 
+		"pdf": "https://osf.io/wzuts",
+		"video": "",
+		"repo": "https://osf.io/n3jg8/",
+		"doi": "https://doi.org/10.1145/3706598.3714070",
+		"demo": "",
+		"awards": "",
+		"abbr": "CHI",
+		"equal_contr": "<sup class='snowflake'>❊</sup>Equal mentorship; Zeng is the corresponding author & PI."
+	}
+	,
+	{
 		"separator": "2024" 
 	}
 	,
@@ -162,7 +183,7 @@
 		"description": "The conventional ranking did not hold, even for only 2 marks, and the new probabilistic ranking was highly inconsistent for different numbers of marks",
 		"repo": "https://doi.org/10.17605/OSF.IO/3E2QT",
 		"doi": "https://doi.org/10.1109/TVCG.2021.3114684",
-		"equal_contr": true,
+		"equal_contr": "<sup class='snowflake'>❊</sup>Equal contributions",
 		"awards": "Honorable Mention Award (top 5%)"
 	},
 	{
