@@ -11,7 +11,7 @@ I would expect the webmaster to have this repo locally and check the outcome.
 To add **people**, maybe just notify me beforehand.    
 To add **artifact**, you may want to discuss it with me briefly unless it's obvious, like a package or a library.      
 To add a new **research** area, hmmm, you definitely want to ask me.   But to add a paper to an existing area, you probably don't need to ask me.   
-After you edit them locally, push to the github, wait for 1-2 minutes, and then definitely check [fig-x.github.io](https://github.com/fig-x/fig-x.github.io/tree/main) to see if anything breaks. If there is a bug and we don't have a coding person, report it to Fumeng. (If the problem is misspecified json, you should fix your json...)   
+After you edit them locally or on Github, commit and push, wait for 1-2 minutes, and then definitely check [fig-x.github.io](https://github.com/fig-x/fig-x.github.io/tree/main) to see if anything breaks. If there is a bug and we don't have a coding person, report it to Fumeng. (If the problem is misspecified json, you should fix your json...)   
 A headshot must have an aspect ratio of 1:1, and a paper thumbnail must have an aspect ratio of 16:9. Check for any large files! 
 
 
