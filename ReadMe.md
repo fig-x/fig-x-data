@@ -60,7 +60,7 @@ To add a person, copy-add a similar entry to the json and upload a headshort to 
   
 - **nickname** could be null or "". This will be used as an id.
 
-- **sorting** could be `prof`, `phd`, `master`, or `undergrad`. This variable is used in sorting the order. If we have someone other than these, we need to change the `People.js`. It doesn't matter if it is `pet`.
+- **sorting** could be `prof`, `phd`, `master`, or `undergrad`. This variable is used in sorting the order. If we have someone other than these, we need to change the `People.js` ([fig-x.github.io](https://github.com/fig-x/fig-x.github.io/tree/main)). It doesn't matter if it is `pet`.
 
 
 ## research.json
@@ -80,9 +80,9 @@ This renders [https://fig-x.github.io/reseach](https://fig-x.github.io/reseach).
 
 ```
 
-The first line is used to render the headers and so on. Except for the paper list, I don't think we need to update these often. The paper list contains an id, specified in `publication.json`. The thumbnails on this page are read from `publication.json` too. The max number is 7 now. If there are more than 4 images, definitely **take a look at the page**, including **the mobile view**. If there are more than **7 papers** in an area, you need to **add an entry** in `index.css` (imagecard) in `fig-x.github.io` and test it.
+The first line is used to render the headers and so on. Except for the paper list, I don't think we need to update these often. The paper list contains an id, specified in `publication.json`. The thumbnails on this page are read from `publication.json` too. The max number is 7 now. If there are more than 4 images, definitely **take a look at the page**, including **the mobile view**. If there are more than **7 papers** in an area, you need to **add an entry** in `index.css` (imagecard) in [fig-x.github.io](https://github.com/fig-x/fig-x.github.io/tree/main) and test it.
 
-If we need to add an area, besides adding an entry, we need to add a line in the `research.js` (`fig-x.github.io`) to add an icon.
+If we need to add an area, besides adding an entry, we need to add a line in the `research.js` ([fig-x.github.io](https://github.com/fig-x/fig-x.github.io/tree/main)) to add an icon.
 
 
 
@@ -114,7 +114,7 @@ The second object is a separator like this.
 
 The others are paper entries published falling into the range of `separator`. I think most of them are self-explanatory. 
 
-I **require** (Ihate this condescending word) each paper to have at least **title**, **people**, **year**, **paper_id** (please follow `yyyy-nickname`, this is used to render the research page), **description** (one sentence pitch), **pdf**, and **abbr**. You should also have at least **doi**. The **repo** field is displayed as supplementary materials. The other fields could be null or `""`.
+Please ensure each paper has at least **title**, **people**, **year**, **paper_id** (please follow `yyyy-nickname`, this is used to render the research page), **description** (one sentence pitch), **pdf**, and **abbr**. You should also have at least **doi**. The **repo** field is displayed as supplementary materials. The other fields could be null or `""`.
 
 ```json
 {
