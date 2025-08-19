@@ -19,19 +19,6 @@
         "sorting": "prof"
     },
     {
-        "name": "Yuan \"Charles\" Cui",
-        "website": "https://digital-flaneur.github.io/",
-        "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/Charles-Cui.jpg",
-        "position": "Visiting Ph.D. Student",
-        "quote": "LLM, Education & Literacy",
-        "placement": null,
-        "category": "current",
-        "year": 2024,
-        "month": 12,
-        "nickname": "charles",
-        "sorting": "phd"
-    },
-    {
         "name": "Yixin \"Georgia\" Bai",
         "website": "https://www.linkedin.com/in/georgia-yixin-bai-166578305/",
         "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/Georgia-Bai.jpg",
@@ -85,8 +72,33 @@
         "nickname": "theseaweeds",
         "sorting": "pet"
     },
+        {
+        "name": "M. R. D.",
+        "website": "",
+        "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/theseaweed.png",
+        "position": "",
+        "quote": "need ample sunlight and consistent watering to thrive.",
+        "category": "current-non-human",
+        "year": 2025,
+        "month": 8,
+        "nickname": "mrd",
+        "sorting": "pet"
+    },
     {
         "placeholder": "======================== student collaborators begin ========================"
+    },
+        {
+        "name": "Yuan \"Charles\" Cui",
+        "website": "https://digital-flaneur.github.io/",
+        "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/Charles-Cui.jpg",
+        "position": "Visiting Ph.D. Student",
+        "quote": "LLM, Education & Literacy",
+        "placement": null,
+        "category": "student-col",
+        "year": 2024,
+        "month": 12,
+        "nickname": "charles",
+        "sorting": "phd"
     },
     {
         "name": "Nishant Balepur",
@@ -142,7 +154,7 @@
         "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/student-col/Tracy-Chen.jpg",
         "position": "Ph.D. student at University of Maryland, College Park",
         "quote": "AI-infused tools, Human-AI interaction",
-        "category": "student-col",
+        "category": "student-col-gradudated",
         "graduated": "",
         "nickname": "tracy",
         "sorting": "phd",
