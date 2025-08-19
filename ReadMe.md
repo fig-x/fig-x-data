@@ -2,16 +2,16 @@
 
 Jul 6, 2024 by Fumeng Yang
 
-This repository contains the datasets used to render [fig-x.github.io](https://github.com/fig-x/fig-x.github.io/tree/main). I decided to separate data from the code to lower the bar for updating, though later, it may prove to be a bad idea. I anticipate that everyone should know how to update the website, but we still need a webmaster to do this for checking and consistency. 
+This repository contains the datasets used to render [fig-x.github.io](https://github.com/fig-x/fig-x.github.io/tree/main). I decided to separate data from the code to lower the bar for updating, though later, we may want to merge them. I anticipate that everyone should know how to update the website, but we may still need a webmaster to do this for checking and consistency. 
 
-Basically, you just need to (1) look at the json and (2) add a similar entry in the json and  (3) upload images to the respective folders. You can pull this repo in your computer or just add information on Github. 
+Basically, you just need to (1) look at the json and (2) add a similar entry in the json and  (3) upload images to the respective folders. You can pull this repo onto your computer, directly add information on Github, or use a pull request. 
 
 I would expect the webmaster to have this repo locally and check the outcome.  
 > To add **publication**, I feel you don't need to ask me/Fumeng for permission.    
 To add **people**, maybe just notify me beforehand.    
 To add **artifact**, you may want to discuss it with me briefly unless it's obvious, like a package or a library.      
 To add a new **research** area, hmmm, you definitely want to ask me.   But to add a paper to an existing area, you probably don't need to ask me.   
-After you edit them locally, push to the github, wait for 1-2 minutes, and then definitely check [fig-x.github.io](https://github.com/fig-x/fig-x.github.io/tree/main) to see if anything breaks. If there is a bug and we don't have a coding person, report it to Fumeng. (If the problem is misspecified json, you should fix your json...)   
+After you edit them locally or on Github, commit and push, wait for 1-2 minutes, and then definitely check [fig-x.github.io](https://github.com/fig-x/fig-x.github.io/tree/main) to see if anything breaks. If there is a bug and we don't have a coding person, report it to Fumeng. (If the problem is misspecified json, you should fix your json...)   
 A headshot must have an aspect ratio of 1:1, and a paper thumbnail must have an aspect ratio of 16:9. Check for any large files! 
 
 
@@ -60,7 +60,7 @@ To add a person, copy-add a similar entry to the json and upload a headshort to 
   
 - **nickname** could be null or "". This will be used as an id.
 
-- **sorting** could be `prof`, `phd`, `master`, or `undergrad`. This variable is used in sorting the order. If we have someone other than these, we need to change the `People.js`. It doesn't matter if it is `pet`.
+- **sorting** could be `prof`, `phd`, `master`, or `undergrad`. This variable is used in sorting the order. If we have someone other than these, we need to change the `People.js` ([fig-x.github.io](https://github.com/fig-x/fig-x.github.io/tree/main)). It doesn't matter if it is `pet`.
 
 
 ## research.json
@@ -80,9 +80,9 @@ This renders [https://fig-x.github.io/reseach](https://fig-x.github.io/reseach).
 
 ```
 
-The first line is used to render the headers and so on. Except for the paper list, I don't think we need to update these often. The paper list contains an id, specified in `publication.json`. The thumbnails on this page are read from `publication.json` too. The max number is 7 now. If there are more than 4 images, definitely **take a look at the page**, including **the mobile view**. If there are more than **7 papers** in an area, you need to **add an entry** in `index.css` (imagecard) in `fig-x.github.io` and test it.
+The first line is used to render the headers and so on. Except for the paper list, I don't think we need to update these often. The paper list contains an id, specified in `publication.json`. The thumbnails on this page are read from `publication.json` too. The max number is 7 now. If there are more than 4 images, definitely **take a look at the page**, including **the mobile view**. If there are more than **7 papers** in an area, you need to **add an entry** in `index.css` (imagecard) in [fig-x.github.io](https://github.com/fig-x/fig-x.github.io/tree/main) and test it.
 
-If we need to add an area, besides adding an entry, we need to add a line in the `research.js` (`fig-x.github.io`) to add an icon.
+If we need to add an area, besides adding an entry, we need to add a line in the `research.js` ([fig-x.github.io](https://github.com/fig-x/fig-x.github.io/tree/main)) to add an icon.
 
 
 
@@ -114,7 +114,7 @@ The second object is a separator like this.
 
 The others are paper entries published falling into the range of `separator`. I think most of them are self-explanatory. 
 
-I **require** (Ihate this condescending word) each paper to have at least **title**, **people**, **year**, **paper_id** (please follow `yyyy-nickname`, this is used to render the research page), **description** (one sentence pitch), **pdf**, and **abbr**. You should also have at least **doi**. The **repo** field is displayed as supplementary materials. The other fields could be null or `""`.
+Please ensure each paper has at least **title**, **people**, **year**, **paper_id** (please follow `yyyy-nickname`, this is used to render the research page), **description** (one sentence pitch), **pdf**, and **abbr**. You should also have at least **doi**. The **repo** field is displayed as supplementary materials. The other fields could be null or `""`.
 
 ```json
 {
