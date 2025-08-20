@@ -1,12 +1,22 @@
 [
-    {
-        "area": "AI Decision-making & Literacy",
-        "core": "",
-        "description": "AI literacy defines the abiliteis of individuals to understand, interact with, and critically evaluate artificial intelligence techniques and systems. We quantify and improve people's AI literacy to enhance trust, accountability, and decision-making. ",
-        "paper": [
-            ""
-        ]
-    },
+{
+    "area": "Human-AI Evolution",
+    "core": "",
+    "description": "We study how humans and AI systems co-evolute over time. We examine how AI can shape human decision-making, learning, and collaboration practices, and how people in turn influence the design and deployment of AI.",
+    "paper": [
+        "2025-persona"
+    ]
+},
+{
+    "area": "Human-AI Interaction",
+    "core": "",
+    "description": "We design and evaluate interfaces and systems that support effective human-AI collaboration, including interaction paradigms that enhance transparency, calibrate trust, and empower people when working with AI systems.",
+    "paper": [
+        "2025-plan",
+        "2020-ml-trust"
+    ]
+}
+,
     {
         "area": "Uncertainty Communication and Election Forecasts",
         "description": "We explore how to convey the inherent uncertainties in model predictions to the general public. Our work focuses on developing visual methods for journalists to present probabilistic electoral forecasts. We also investigate the impact of such reporting on voter behavior and trust in the electoral process. ",
@@ -15,15 +25,6 @@
             "2023-midterm",
             "2023-bias-correction",
             "2024-backstory"
-        ]
-    },
-    {
-        "area": "Trust in Computational Models",
-        "core": " ",
-        "description": "We study how users perceive and maintain trust in computational models like probabilistic forecasts and machine learning tehcniques, especially in the domains of healthcare and policy-making. Our visual methods enhanced the interpretability of model and enable users to make more appropriate decisions. ",
-        "paper": [
-            "2020-ml-trust",
-            "2024-dice"
         ]
     },
     {
