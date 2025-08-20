@@ -12,7 +12,6 @@
     "core": "",
     "description": "We design and evaluate interfaces and systems that support effective human-AI collaboration, including interaction paradigms that enhance transparency, calibrate trust, and empower people when working with AI systems.",
     "paper": [
-        "2025-plan",
         "2020-ml-trust"
     ]
 }
