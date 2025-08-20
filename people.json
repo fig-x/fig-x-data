@@ -18,6 +18,45 @@
         "nickname": "fy",
         "sorting": "prof"
     },
+        {
+        "name": "Daniel Palamarchuk",
+        "website": "https://danilka4.github.io/",
+        "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/Daniel-Palamarchuk.jpg",
+        "position": "Masters Student",
+        "quote": "AI, Decision-making",
+        "category": "current",
+        "year": 2024,
+        "month": 12,
+        "nickname": "georgia",
+        "sorting": "master",
+        "placement": null
+    },
+        {
+        "name": "Yixin \"Georgia\" Bai",
+        "website": "https://www.linkedin.com/in/georgia-yixin-bai-166578305/",
+        "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/Georgia-Bai.jpg",
+        "position": "Masters Student",
+        "quote": "AI, Decision-making",
+        "category": "current",
+        "year": 2024,
+        "month": 12,
+        "nickname": "georgia",
+        "sorting": "master",
+        "placement": null
+    },
+        {
+        "name": "Yixin \"Georgia\" Bai",
+        "website": "https://www.linkedin.com/in/georgia-yixin-bai-166578305/",
+        "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/Georgia-Bai.jpg",
+        "position": "Masters Student",
+        "quote": "AI, Decision-making",
+        "category": "current",
+        "year": 2024,
+        "month": 12,
+        "nickname": "georgia",
+        "sorting": "master",
+        "placement": null
+    },
     {
         "name": "Yixin \"Georgia\" Bai",
         "website": "https://www.linkedin.com/in/georgia-yixin-bai-166578305/",

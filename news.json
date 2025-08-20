@@ -1,11 +1,23 @@
 [
-     {
+   {
+        "time": "2025-08-23",
+        "htmlContent": "Welcome <a href='https://danilka4.github.io/' class='normal-a news-paper-nickname' target='_blank'>Daniel</a>, <a href='https://taehyun.me/' class='normal-a news-paper-nickname' target='_blank'>Taehyun</a>, and <a href='https://lebretou.github.io/' class='normal-a news-paper-nickname' target='_blank'>Zhongzheng</a>!"
+    },
+    {
+        "time": "2025-07-19",
+        "htmlContent": "<a class='normal-a news-paper-nickname' href='./publication#2025-color'>Colormap recovery</a> got accepted at VIS 2025!"
+    },
+    {
+        "time": "2025-05-15",
+        "htmlContent": "<a class='normal-a news-paper-nickname' href='./publication#2025-boat'>Whose boat does it float</a> got accepted at ACL 2025 main conference!"
+    },
+    {
         "time": "2025-02-08",
-        "htmlContent": "One paper got accepted at ACM CHI! Check out <a class='normal-a news-paper-nickname' href='./publication#2025-depth'>Seeing Through the Overlap</a>."
+        "htmlContent": "<a class='normal-a news-paper-nickname' href='./publication#2025-depth'>Seeing through the overlap</a> got accepted at CHI 2025!"
     },
     {
         "time": "2024-07-15",
-        "htmlContent": "Two papers got accepted into IEEE VIS! Check out <a class='normal-a news-paper-nickname' href='./publication#2024-vila'>vila</a> and <a class='normal-a news-paper-nickname' href='./publication#2024-backstory'>backstory</a>."
+        "htmlContent": "Two papers got accepted into VIS 2024! Check out <a class='normal-a news-paper-nickname' href='./publication#2024-vila'>vila</a> and <a class='normal-a news-paper-nickname' href='./publication#2024-backstory'>backstory</a>."
     },
     {
         "time": "2024-07-14",
@@ -16,3 +28,5 @@
         "htmlContent": "Fumeng accepted the job offer and initialized this website. &#x263A;"
     }
 ]
+
+
