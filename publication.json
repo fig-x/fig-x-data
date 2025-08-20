@@ -6,11 +6,60 @@
 		"TVCG": "IEEE Transactions on Visualization and Computer Graphics",
 		"CHI LBW": "CHI Conference Extended Abstracts on Human Factors in Computing Systems",
 		"IUI": "The ACM Conference on Intelligent User Interfaces",
-		"Ubicomp": "The ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies"
+		"Ubicomp": "The ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies",
+		"ACL": "Annual Meeting of the Association for Computational Linguistics",
+		"EMNLP": "Empirical Methods in Natural Language Processing"
 	}
 	,
 	{
 		"separator": "2025" 
+	}
+	,
+		{
+		"title": " Good Plan is Hard to Find: Aligning Models with Preferences is Misaligned with What Helps Users",
+		"people": "Nishant Balepur, Matthew Shu, Yoo Yeon Sung, Seraphina Goldfarb-Tarrant, Shi Feng, <text class = 'figx-name-style'>Fumeng Yang</text>,  Rachel Rudinger, Jordan Lee Boyd‑Graber",
+		"year": 2025,
+		"thumbnail": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/publication/2025-plan.png",
+		"paper_id": "2025-plan",
+		"description": "Infer personas from user preferences to improve personalization in preference tuning.",
+		"pdf": "",
+		"video": "",
+		"repo": "",
+		"demo": "",
+		"awards": "",
+		"abbr": "EMNLP"
+	}
+	,
+		{
+		"title": "Self-Supervised Continuous Colormap Recovery from a Scalar Field Visualization without a Legend",
+		"people": "Hongxu Liu, Xinyu Chen, Haoyang Zheng, Manyi Li, Zhenfan Liu, <text class = 'figx-name-style'>Fumeng Yang</text>,Yunhai Wang, Changhe Tu, Qiong Zeng",
+		"year": 2025,
+		"thumbnail": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/publication/2025-color.png",
+		"paper_id": "2025-color",
+		"description": "Infer personas from user preferences to improve personalization in preference tuning.",
+		"pdf": "https://arxiv.org/pdf/2507.20632",
+		"video": "",
+		"repo": "https://osf.io/gb2tx/?view_only=4d2a269b59bc4144b2806ec2d1a34e11",
+		"doi": "",
+		"demo": "",
+		"awards": "",
+		"abbr": "VIS"
+	}
+	,
+	{
+		"title": "Whose Boat Does it Float? Improving Personalization in Preference Tuning via Inferred User Personas",
+		"people": "Nishant Balepur, Vishakh Padmakumar,  <text class = 'figx-name-style'>Fumeng Yang</text>, Shi Feng, Rachel Rudinger, Jordan Lee Boyd‑Graber",
+		"year": 2025,
+		"thumbnail": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/publication/2025-persona.png",
+		"paper_id": "2025-persona",
+		"description": "Infer personas from user preferences to improve personalization in preference tuning.",
+		"pdf": "https://arxiv.org/abs/2501.11549",
+		"video": "",
+		"repo": "https://github.com/Pinafore/alignment-personalization",
+		"doi": "https://doi.org/10.48550/arXiv.2501.11549",
+		"demo": "",
+		"awards": "",
+		"abbr": "ACL"
 	}
 	,
 	{
