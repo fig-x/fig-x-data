@@ -16,27 +16,12 @@
 	}
 	,
 		{
-		"title": " Good Plan is Hard to Find: Aligning Models with Preferences is Misaligned with What Helps Users",
-		"people": "Nishant Balepur, Matthew Shu, Yoo Yeon Sung, Seraphina Goldfarb-Tarrant, Shi Feng, <text class = 'figx-name-style'>Fumeng Yang</text>,  Rachel Rudinger, Jordan Lee Boyd‑Graber",
-		"year": 2025,
-		"thumbnail": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/publication/2025-plan.png",
-		"paper_id": "2025-plan",
-		"description": "Infer personas from user preferences to improve personalization in preference tuning.",
-		"pdf": "",
-		"video": "",
-		"repo": "",
-		"demo": "",
-		"awards": "",
-		"abbr": "EMNLP"
-	}
-	,
-		{
 		"title": "Self-Supervised Continuous Colormap Recovery from a Scalar Field Visualization without a Legend",
-		"people": "Hongxu Liu, Xinyu Chen, Haoyang Zheng, Manyi Li, Zhenfan Liu, <text class = 'figx-name-style'>Fumeng Yang</text>,Yunhai Wang, Changhe Tu, Qiong Zeng",
+		"people": "Hongxu Liu, Xinyu Chen, Haoyang Zheng, Manyi Li, Zhenfan Liu, <text class = 'figx-name-style'>Fumeng Yang</text>, Yunhai Wang, Changhe Tu, Qiong Zeng",
 		"year": 2025,
 		"thumbnail": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/publication/2025-color.png",
 		"paper_id": "2025-color",
-		"description": "Infer personas from user preferences to improve personalization in preference tuning.",
+		"description": "We introduce a self-supervised method that recovers a continuous colormap and underlying data from a single 2D scalar field visualization.",
 		"pdf": "https://arxiv.org/pdf/2507.20632",
 		"video": "",
 		"repo": "https://osf.io/gb2tx/?view_only=4d2a269b59bc4144b2806ec2d1a34e11",
@@ -52,7 +37,7 @@
 		"year": 2025,
 		"thumbnail": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/publication/2025-persona.png",
 		"paper_id": "2025-persona",
-		"description": "Infer personas from user preferences to improve personalization in preference tuning.",
+		"description": "We use abductive reasoning to infer user personas from preference data, so LLMs can deliver more personalized and inclusive responses",
 		"pdf": "https://arxiv.org/abs/2501.11549",
 		"video": "",
 		"repo": "https://github.com/Pinafore/alignment-personalization",
