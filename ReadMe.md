@@ -4,7 +4,7 @@ Jul 6, 2024 by Fumeng Yang
 
 This repository contains the datasets used to render [fig-x.github.io](https://github.com/fig-x/fig-x.github.io/tree/main). I decided to separate data from the code to lower the bar for updating, though later, we may want to merge them. I anticipate that everyone should know how to update the website, but we may still need a webmaster to do this for checking and consistency. 
 
-Basically, you just need to (1) look at the json and (2) add a similar entry in the json and  (3) upload images to the respective folders. You can pull this repo onto your computer, directly add information on GitHub, or `use a pull request` (preferred so the webmaster can check it). 
+Basically, you just need to (1) look at the json and (2) add a similar entry in the json and  (3) upload images to the respective folders. You can pull this repo onto your computer, directly add information on GitHub, or **use a pull request** (preferred so the webmaster can check it). 
 
 I would expect the webmaster to have this repo locally and check the outcome.  
 > To add **publication**, I feel you don't need to ask me/Fumeng for permission.    
