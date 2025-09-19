@@ -17,7 +17,7 @@
 		,
 		{
 		"title": "A Good Plan is Hard to Find: Aligning LLMs with Preferences is Misaligned with What Helps Users",
-		"people": "Nishant Balepur, Matthew Shu, Yoo Yeon Sung, Seraphina Goldfarb-Tarrant, Shi Feng, Fumeng Yang, Rachel Rudinger, Jordan Lee Boyd‑Graber",
+		"people": "Nishant Balepur, Matthew Shu, Yoo Yeon Sung, Seraphina Goldfarb-Tarrant, Shi Feng,  <text class = 'figx-name-style'>Fumeng Yang</text>, Rachel Rudinger, Jordan Lee Boyd‑Graber",
 		"year": 2025,
 		"thumbnail": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/publication/2025-plan.png",
 		"paper_id": "2025-plan",
