@@ -14,6 +14,22 @@
 	{
 		"separator": "2025" 
 	}
+		,
+		{
+		"title": "A Good Plan is Hard to Find: Aligning LLMs with Preferences is Misaligned with What Helps Users",
+		"people": "Nishant Balepur, Matthew Shu, Yoo Yeon Sung, Seraphina Goldfarb-Tarrant, Shi Feng, Fumeng Yang, Rachel Rudinger, Jordan Lee Boyd‑Graber",
+		"year": 2025,
+		"thumbnail": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/publication/2025-plan.png",
+		"paper_id": "2025-plan",
+		"description": "We argue that aligning helpful LLMs needs feedback from real user interactions—not just preferences of what looks helpful.",
+		"pdf": "https://nbalepur.github.io/assets/pdf/Planorama.pdf",
+		"video": "",
+		"repo": "",
+		"doi": "",
+		"demo": "",
+		"awards": "",
+		"abbr": "EMNLP"
+	}
 	,
 		{
 		"title": "Self-Supervised Continuous Colormap Recovery from a Scalar Field Visualization without a Legend",
@@ -21,7 +37,7 @@
 		"year": 2025,
 		"thumbnail": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/publication/2025-color.png",
 		"paper_id": "2025-color",
-		"description": "We introduce a self-supervised method that recovers a continuous colormap and underlying data from a single 2D scalar field visualization.",
+		"description": "",
 		"pdf": "https://arxiv.org/pdf/2507.20632",
 		"video": "",
 		"repo": "https://osf.io/gb2tx/?view_only=4d2a269b59bc4144b2806ec2d1a34e11",
