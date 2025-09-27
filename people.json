@@ -356,16 +356,16 @@
         "sorting": ""
     },
     {
-        "abbrv": "Molly",
-        "name": "Molloy Lab",
-        "website": "https://ekmolloy.github.io/",
-        "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/friends/molly-logo.png",
+        "abbrv": "CLIP",
+        "name": "CLIP Lab",
+        "website": "https://ischool.umd.edu/centers-and-labs/clip/",
+        "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/friends/umdclip-logo.png",
         "position": "University of Maryland, College Park",
         "quote": "",
         "category": "partner-lab",
         "year": "",
         "month": "",
-        "nickname": "molly",
+        "nickname": "clip",
         "sorting": ""
     }
 ]
