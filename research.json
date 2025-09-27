@@ -1,8 +1,8 @@
 [
 {
-    "area": "Human-AI Evolution",
+    "area": "Human-AI Co-Evolution",
     "core": "",
-    "description": "We study how humans and AI systems co-evolute over time. We examine how AI can shape human decision-making, learning, and collaboration practices, and how people in turn influence the design and deployment of AI.",
+    "description": "We study how humans and AI systems co-evolve over time. We examine how AI can shape human decision-making, learning, and collaboration practices, and how people in turn influence the design and deployment of AI.",
     "paper": [
         "2025-persona"
     ]
@@ -12,6 +12,7 @@
     "core": "",
     "description": "We design and evaluate interfaces and systems that support effective human-AI collaboration, including interaction paradigms that enhance transparency, calibrate trust, and empower people when working with AI systems.",
     "paper": [
+        "2025-plan",
         "2020-ml-trust"
     ]
 }
