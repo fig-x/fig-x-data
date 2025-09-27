@@ -22,10 +22,10 @@
 		"thumbnail": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/publication/2025-plan.png",
 		"paper_id": "2025-plan",
 		"description": "We argue that aligning helpful LLMs needs feedback from real user interactions—not just preferences of what looks helpful.",
-		"pdf": "https://nbalepur.github.io/assets/pdf/Planorama.pdf",
+		"pdf": "https://arxiv.org/pdf/2509.18632",
 		"video": "",
 		"repo": "",
-		"doi": "",
+		"doi": "https://doi.org/10.48550/arXiv.2509.18632",
 		"demo": "",
 		"awards": "",
 		"abbr": "EMNLP"
