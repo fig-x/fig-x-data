@@ -96,6 +96,19 @@
         "sorting": "ug",
         "placement": null
     },
+        {
+        "name": "Yuan \"Charles\" Cui",
+        "website": "https://digital-flaneur.github.io/",
+        "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/Charles-Cui.jpg",
+        "position": "Adobe, Research Engineer",
+        "quote": "Visiting Student",
+        "placement": null,
+        "category": "alumni",
+        "year": 2024,
+        "month": 12,
+        "nickname": "charles",
+        "sorting": "phd"
+    },
     {
         "placeholder": "======================== pets begin ===================="
     },
@@ -125,19 +138,6 @@
     },
     {
         "placeholder": "======================== student collaborators begin ========================"
-    },
-    {
-        "name": "Yuan \"Charles\" Cui",
-        "website": "https://digital-flaneur.github.io/",
-        "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/Charles-Cui.jpg",
-        "position": "Ph.D. student at Northwestern University",
-        "quote": "LLM, Education & Literacy",
-        "placement": null,
-        "category": "student-col",
-        "year": 2024,
-        "month": 12,
-        "nickname": "charles",
-        "sorting": "phd"
     },
     {
         "name": "Nishant Balepur",
@@ -201,7 +201,7 @@
     },
     {
         "name": "Xiaoyu Liu",
-        "website": "",
+        "website": "https://dawnsqrl.github.io/",
         "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/student-col/Xiaoyu-Liu.jpg",
         "position": "Ph.D. student at University of Maryland, College Park",
         "quote": "Infographics, Visualization",
