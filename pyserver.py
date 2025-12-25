@@ -1,4 +1,3 @@
-python3 - <<'PY'
 import http.server, socketserver
 class CORS(http.server.SimpleHTTPRequestHandler):
     def end_headers(self):

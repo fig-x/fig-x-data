@@ -83,6 +83,32 @@
         "sorting": "master",
         "placement": null
     },
+        {
+        "name": "Jalen Friday",
+        "website": "https://jfriday.framer.website/about",
+        "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/Jalen-Friday.png",
+        "position": "Master's Student",
+        "quote": "AI for education",
+        "category": "current",
+        "year": 2025,
+        "month": 1,
+        "nickname": "jalen",
+        "sorting": "master",
+        "placement": null
+    },
+    {
+        "name": "Kai-Ting \"Chisty\" Chu",
+        "website": "https://www.linkedin.com/in/kaiting-chiu/",
+        "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/Kai-Ting-Chu.jpeg",
+        "position": "Master's Student",
+        "quote": "AI for education",
+        "category": "current",
+        "year": 2025,
+        "month": 1,
+        "nickname": "chisty",
+        "sorting": "master",
+        "placement": null
+    },
     {
         "name": "Thushan Ranasinghe",
         "website": "https://www.linkedin.com/in/thushan-ranasinghe/",
@@ -209,6 +235,18 @@
         "graduated": "",
         "nickname": "xiaoyu",
         "sorting": "phd",
+        "placement": null
+    },
+        {
+        "name": "Ziyi \"Zoe\" Wang",
+        "website": "https://www.zoe-wang.com/",
+        "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/student-col/Ziyi-Wang.jpeg",
+        "position": "Master's student at University of Maryland, College Park",
+        "quote": "Human-centered interactive systems",
+        "category": "student-col",
+        "graduated": "",
+        "nickname": "ziyi",
+        "sorting": "masters",
         "placement": null
     },
     {
