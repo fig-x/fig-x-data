@@ -105,7 +105,7 @@
         "category": "current",
         "year": 2025,
         "month": 1,
-        "nickname": "chisty",
+        "nickname": "christy",
         "sorting": "master",
         "placement": null
     },
@@ -240,7 +240,7 @@
         {
         "name": "Ziyi \"Zoe\" Wang",
         "website": "https://www.zoe-wang.com/",
-        "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/student-col/Ziyi-Wang.jpeg",
+        "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/student-col/Ziyi-Wang.png",
         "position": "Master's student at University of Maryland, College Park",
         "quote": "Human-centered interactive systems",
         "category": "student-col",
