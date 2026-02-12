@@ -9,8 +9,45 @@
 		"Ubicomp": "The ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies",
 		"ACL": "Annual Meeting of the Association for Computational Linguistics",
 		"EMNLP": "Empirical Methods in Natural Language Processing"
+	} ,
+		{
+		"separator": "2026" 
+	}
+	   ,
+	{
+		"title": "Codesigning Ripplet: An LLM-Assisted Assessment Authoring System Grounded in a Conceptual Model of Teachers' Workflows",
+		"people": "<text class = 'figx-name-style'>Yuan Cui</text>, Annabel Goldman, Jovy Zhou, Xiaolin Liu, Clarissa Shieh, Joshua Yao, Mia Cheng, Matthew Kay, <text class = 'figx-name-style'>Fumeng Yang</text>",
+		"year": 2026,
+		"thumbnail": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/publication/2026-ripplet.png",
+		"paper_id": "2026-ripplet",
+		"description": "",
+		"pdf": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/pdf/2026-ripplet.pdf",
+		"video": "",
+		"repo": "",
+		"doi": "https://doi.org/10.1145/3772318.3790418",
+		"demo": "",
+		"awards": "",
+		"abbr": "CHI"
 	}
 	,
+
+	{
+		"title": "Through a Live Elections Dashboard, Darkly: Managing Expectations and Trust in Progressive Vote Counting During the 2024 U.S. Election",
+		"people": "Mandi Cai, Grace Wang, Chloe Mortenson, <text class = 'figx-name-style'>Fumeng Yang</text>, Erik C. Nisbet, Matthew Kay",
+		"year": 2026,
+		"thumbnail": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/publication/2026-darkly.png",
+		"paper_id": "2026-darkly",
+		"description": "",
+		"pdf": "https://osf.io/qxk2t/files/yhcz6",
+		"video": "",
+		"repo": "https://osf.io/qxk2t/overview",
+		"doi": "https://doi.org/10.1145/3772318.3793385",
+		"demo": "",
+		"awards": "",
+		"abbr": "CHI"
+	}
+	,
+
 	{
 		"separator": "2025" 
 	}
