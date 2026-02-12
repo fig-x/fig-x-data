@@ -4,9 +4,9 @@
 	,
         {
 		"what": "dataset",
-        "title": "&#129381; HAID Literature",
+        "title": "HAID Literature",
         "link": "https://fig-x.github.io/haid/",
-        "description": "This is a dataset with Human-AI decision-making papers",
+        "description": "This is a dataset with 1000+ Human-AI decision-making papers from 20 different databases and publishers.",
         "people": "Fumeng Yang"
 	}
     ,
