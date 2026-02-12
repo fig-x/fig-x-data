@@ -1,5 +1,9 @@
 [
-   {
+     {
+        "time": "2026-02-12",
+        "htmlContent": "<q><a class='normal-a news-paper-nickname' href='./publication#2026-ripplet'>Ripplet</a></q>  and <q><a class='normal-a news-paper-nickname' href='./publication#2026-darkly'>Election dashboard</a></q> got accepted at CHI 2026!"
+   },
+    {
         "time": "2025-08-21",
         "htmlContent": "<q><a class='normal-a news-paper-nickname' href='./publication#2025-plan'>A good plan is hard to find</a></q> got accepted at EMNLP 2025!"
    },

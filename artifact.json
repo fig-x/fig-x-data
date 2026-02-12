@@ -2,6 +2,14 @@
 
 	["dataset", "website", "model", "tool", "library", "package", "interface"]
 	,
+        {
+		"what": "dataset",
+        "title": "&#129381; HAID Literature",
+        "link": "https://fig-x.github.io/haid/",
+        "description": "This is a dataset with Human-AI decision-making papers",
+        "people": "Fumeng Yang"
+	}
+    ,
 	{
 		"what": "website",
         "title": "Governor Election Forecasts",
@@ -9,6 +17,7 @@
         "description": "This site provides our best guess of the outcomes of the 2022 governor elections in the U.S.",
         "people": "Fumeng Yang"
 	},
+    
     {
 		"what": "model",
         "title": "Governor Election Model",
