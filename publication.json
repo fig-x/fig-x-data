@@ -180,7 +180,7 @@
 		"abbr": "TVCG"
 	},
 	{
-		"separator": "2023" 
+		"separator": "2023 and earlier" 
 	   }
 	   ,
 	{
@@ -240,10 +240,6 @@
 		"doi": "https://doi.org/10.1145/3544548.3581111",
 		"awards": ""
 	},
-	{
-		"separator": "2022 and earlier" 
-	   }
-	   ,
 	{
 		"title": "Visual Cue Effects on a Classification Accuracy Estimation Task in Immersive Scatterplots",
 		"people": "<text class = 'figx-name-style'>Fumeng Yang</text>, James Tompkin, Lane Harrison, David H. Laidlaw",
