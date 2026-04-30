@@ -8,10 +8,28 @@
 		"IUI": "The ACM Conference on Intelligent User Interfaces",
 		"Ubicomp": "The ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies",
 		"ACL": "Annual Meeting of the Association for Computational Linguistics",
+		"ACL Findings": "Findings of the Association for Computational Linguistics",
 		"EMNLP": "Empirical Methods in Natural Language Processing"
 	} ,
-		{
+
+	{
 		"separator": "2026" 
+	}
+	,
+		{
+		"title": "Reheat Nachos for Dinner? Evaluating AI Support for Cross-Cultural Communication of Neologisms",
+		"people": "Dayeon Ki<sup class='snowflake'>❊</sup>, Yu Hou<sup class='snowflake'>❊</sup>, Rachel Rudinger, Hal Daumé III, Marine Carpuat, <text class = 'figx-name-style'>Fumeng Yang</text>",
+		"year": 2026,
+		"thumbnail": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/publication/2026-neologism.png",
+		"paper_id": "2026-neologism",
+		"description": "",
+		"pdf": "https://arxiv.org/html/2604.23842v1",
+		"video": "",
+		"repo": "https://arxiv.org/html/2604.23842v1#A1",
+		"doi": "",
+		"demo": "",
+		"awards": "",
+		"abbr": "ACL Findings"
 	}
 	   ,
 	{
