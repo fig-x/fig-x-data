@@ -70,19 +70,6 @@
         "sorting": "master",
         "placement": null
     },
-    {
-        "name": "Divahar Sivanesan",
-        "website": "https://cmns.umd.edu/undergraduate/future-students/recruitment-ambassadors/Divahar-Sivanesan",
-        "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/Divahar-Sivanesan.jpg",
-        "position": "Master's Student",
-        "quote": "Election data & Visualization",
-        "category": "current",
-        "year": 2025,
-        "month": 1,
-        "nickname": "divahar",
-        "sorting": "master",
-        "placement": null
-    },
         {
         "name": "Jalen Friday",
         "website": "https://jfriday.framer.website/about",
@@ -108,7 +95,53 @@
         "nickname": "christy",
         "sorting": "master",
         "placement": null
+    }
+      ,
+      {
+        "name": "Simran Gawri",
+        "website": "linkedin.com/in/simran-gawri-010955169",
+        "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/Simran-Gawri.png",
+        "position": "Master's Student",
+        "quote": "AI, Creativity",
+        "category": "current",
+        "year": 2026,
+        "month": 1,
+        "market": true, 
+        "nickname": "simran",
+        "sorting": "master",
+        "placement": null
+    }
+    ,
+
+      {
+        "name": "Dhanya Krishnan",
+        "website": "https://www.linkedin.com/in/dhanya-krishnan-compsci/",
+        "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/Dhanya-Krishnan.png",
+        "position": "Master's Student",
+        "quote": "AI, Creativity",
+        "category": "current",
+        "year": 2026,
+        "month": 1,
+        "market": true, 
+        "nickname": "dhanya",
+        "sorting": "master",
+        "placement": null
+    }
+   ,
+    {
+        "name": "Matt Hullana",
+        "website": "https://www.linkedin.com/in/matthullana/",
+        "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/Matt-Hullana.png",
+        "position": "Undergraduate Research Assistant",
+        "quote": "",
+        "category": "alumni",
+        "year": 2026,
+        "month": 1,
+        "nickname": "matth",
+        "sorting": "ug",
+        "placement": null
     },
+    ,
     {
         "name": "Thushan Ranasinghe",
         "website": "https://www.linkedin.com/in/thushan-ranasinghe/",
@@ -134,6 +167,19 @@
         "month": 12,
         "nickname": "charles",
         "sorting": "phd"
+    },
+        {
+        "name": "Divahar Sivanesan",
+        "website": "https://cmns.umd.edu/undergraduate/future-students/recruitment-ambassadors/Divahar-Sivanesan",
+        "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/Divahar-Sivanesan.jpg",
+        "position": "Databricks, Software Engineer",
+        "quote": "Master's Student",
+        "category": "alumni",
+        "year": 2025,
+        "month": 1,
+        "nickname": "divahar",
+        "sorting": "master",
+        "placement": null
     },
     {
         "placeholder": "======================== pets begin ===================="
