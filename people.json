@@ -11,7 +11,7 @@
         "website": "https://www.fmyang.com/",
         "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/FumengYang-2024-1.2.jpg",
         "position": "Assistant Professor",
-        "quote": ".union(the lab's ideas)",
+        "quote": "HAI, Visualization",
         "category": "current",
         "year": 2024,
         "month": 6,
@@ -70,7 +70,7 @@
         "sorting": "master",
         "placement": null
     },
-        {
+    {
         "name": "Jalen Friday",
         "website": "https://jfriday.framer.website/about",
         "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/Jalen-Friday.png",
@@ -95,9 +95,8 @@
         "nickname": "christy",
         "sorting": "master",
         "placement": null
-    }
-      ,
-      {
+    },
+    {
         "name": "Simran Gawri",
         "website": "linkedin.com/in/simran-gawri-010955169",
         "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/Simran-Gawri.png",
@@ -106,14 +105,12 @@
         "category": "current",
         "year": 2026,
         "month": 1,
-        "market": true, 
+        "market": true,
         "nickname": "simran",
         "sorting": "master",
         "placement": null
-    }
-    ,
-
-      {
+    },
+    {
         "name": "Dhanya Krishnan",
         "website": "https://www.linkedin.com/in/dhanya-krishnan-compsci/",
         "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/Dhanya-Krishnan.png",
@@ -122,12 +119,11 @@
         "category": "current",
         "year": 2026,
         "month": 1,
-        "market": true, 
+        "market": true,
         "nickname": "dhanya",
         "sorting": "master",
         "placement": null
-    }
-   ,
+    },
     {
         "name": "Matt Hullana",
         "website": "https://www.linkedin.com/in/matthullana/",
@@ -154,7 +150,7 @@
         "sorting": "ug",
         "placement": null
     },
-        {
+    {
         "name": "Yuan \"Charles\" Cui",
         "website": "https://digital-flaneur.github.io/",
         "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/Charles-Cui.jpg",
@@ -167,7 +163,7 @@
         "nickname": "charles",
         "sorting": "phd"
     },
-        {
+    {
         "name": "Divahar Sivanesan",
         "website": "https://cmns.umd.edu/undergraduate/future-students/recruitment-ambassadors/Divahar-Sivanesan",
         "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/Divahar-Sivanesan.jpg",
@@ -282,7 +278,7 @@
         "sorting": "phd",
         "placement": null
     },
-        {
+    {
         "name": "Ziyi \"Zoe\" Wang",
         "website": "https://www.zoe-wang.com/",
         "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/student-col/Ziyi-Wang.png",
@@ -300,7 +296,7 @@
         "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/student-col/Ouxun-Jiang.png",
         "position": "Ph.D. student at Northwestern University",
         "quote": "Animated visualization, Perception",
-        "category": "student-col",
+        "category": null,
         "graduated": "",
         "nickname": "ouxun",
         "sorting": "phd",
@@ -312,7 +308,7 @@
         "headshot": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/people/student-col/Mandi-Cai.jpeg",
         "position": "Ph.D. student at Northwestern University",
         "quote": "Election visualization, Data journalism",
-        "category": "student-col",
+        "category": null,
         "graduated": "",
         "nickname": "mandi",
         "sorting": "phd",
