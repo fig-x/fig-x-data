@@ -37,24 +37,9 @@
             "2014-weber",
             "2018-vf",
             "2023-dnn",
-            "2024-marey"
+            "2024-marey",
+            "2026-affective",
+            "2026-infographics"
         ]
-    },
-    {
-        "area": "Collaboration: Visualization Literacy",
-        "description": "Visualization literacy is an essential skill for accurately interpreting data to inform critical decisions.  We study the following questions: How can we measure more aspects of visualization literacy? How can we efficiently measure visualization literacy? How can we generate diverse visualization literacy test items at scale?",
-        "paper": [
-            "2024-vila",
-            "2023-cat"
-        ]
-    },
-    {
-        "area": "Collaboration: Immersive Analytics and Cognition",
-        "description": "We explore the use of immersive technologies, such as virtual reality (VR) and augmented reality (AR), to enhance data analysis and understanding. ",
-        "paper": [
-            "2020-mp",
-            "2022-vrsd",
-            "2020-portalware"
-        ]   
     }
 ]
