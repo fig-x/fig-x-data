@@ -3,17 +3,36 @@
 	{
 		"CHI": "The ACM Conference on Human Factors in Computing Systems",
 		"VIS": "IEEE Visualization and Visual Analytics Conference",
+		"VIS Short Papers": "IEEE Visualization and Visual Analytics Conference (Short Papers)",
 		"TVCG": "IEEE Transactions on Visualization and Computer Graphics",
 		"CHI LBW": "CHI Conference Extended Abstracts on Human Factors in Computing Systems",
 		"IUI": "The ACM Conference on Intelligent User Interfaces",
 		"Ubicomp": "The ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies",
 		"ACL": "Annual Meeting of the Association for Computational Linguistics",
 		"ACL Findings": "Findings of the Association for Computational Linguistics",
-		"EMNLP": "Empirical Methods in Natural Language Processing"
+		"EMNLP": "Empirical Methods in Natural Language Processing",
+		"ISMAR": "IEEE International Symposium on Mixed and Augmented Reality"
 	} ,
 
 	{
 		"separator": "2026" 
+	}
+	,
+		{
+		"title": "Made to Feel: How Designers Bring Emotions into Affective Visualization",
+		"people": "Yixin Bai, Ziyi Wang, Keke Wu, <text class = 'figx-name-style'>Fumeng Yang</text>",
+		"year": 2026,
+		"thumbnail": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/publication/2026-affective.jpeg",
+		"paper_id": "2026-affective",
+		"description": "",
+		"pdf": "https://doi.org/10.48550/arXiv.2607.01593",
+		"video": "",
+		"repo": "",
+		"doi": "",
+		"demo": "",
+		"awards": "",
+		"abbr": "VIS Short Papers",
+		"ai_image": true
 	}
 	,
 		{
