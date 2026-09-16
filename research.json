@@ -20,8 +20,8 @@
 }
 ,
 {
-        "area": "Information Communication",
-        "description": "We also work on understanding how people perceive, interpret, and interact with visual representations of data. We evaluate the usability and impact of different visualization designs through empirical studies and vision methods.  ",
+        "area": "Information Visualization",
+        "description": "Exploring how information is designed, encoded, and communicated to diverse audiences through visual and interactive media. This research investigates strategies  for improving clarity, comprehension, and engagement in the transmission of complex information across different contexts and modalities.",
         "paper": [
             "2026-infographics",
             "2026-affective"
