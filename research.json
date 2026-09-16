@@ -21,7 +21,7 @@
 ,
 {
         "area": "Information Visualization",
-        "description": "Exploring how information is designed, encoded, and communicated to diverse audiences through visual and interactive media. This research investigates strategies  for improving clarity, comprehension, and engagement in the transmission of complex information across different contexts and modalities.",
+        "description": "Investigating how data and complex information can be represented visually to enhance understanding, exploration, and decision-making. This research examines design frameworks and interactive techniques that make abstract data accessible and meaningful to diverse audiences.",
         "paper": [
             "2026-infographics",
             "2026-affective"
