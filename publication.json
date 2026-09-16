@@ -18,6 +18,23 @@
 		"separator": "2026" 
 	}
 	,
+		{
+		"title": "Made to Feel: How Designers Bring Emotions into Affective Visualization",
+		"people": "<text class = 'figx-name-style'>Yixin Bai</text>, Ziyi Wang, Keke Wu, <text class = 'figx-name-style'>Fumeng Yang</text>",
+		"year": 2026,
+		"thumbnail": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/publication/2026-affective.jpeg",
+		"paper_id": "2026-affective",
+		"description": "",
+		"pdf": "https://doi.org/10.48550/arXiv.2607.01593",
+		"video": "",
+		"repo": "",
+		"doi": "",
+		"demo": "",
+		"awards": "",
+		"abbr": "VIS Short Papers",
+		"ai_image": true
+	}
+	,
 	{
 		"title": "What Do We Mean When We Talk About Infographics?",
 		"people": "Xiaoyu Liu, Vishnu Sreekanth, Vraj Patel, Shalin Muzumdar, Diego Lopez, <text class = 'figx-name-style'>Fumeng Yang</text>, Zhicheng Liu",
@@ -36,23 +53,23 @@
 	}
 	,
 	{
-		"title": "Made to Feel: How Designers Bring Emotions into Affective Visualization",
-		"people": "<text class = 'figx-name-style'>Yixin Bai</text>, Ziyi Wang, Keke Wu, <text class = 'figx-name-style'>Fumeng Yang</text>",
+		"title": "DuoZone: A User-Centric, LLM-Guided Mixed-Initiative XR Window Management System",
+		"people": "Jing Qian, Xi Wang, Xiangyu Li, Yunge Wen, Guande Wu, Sonia C. Quispe, <text class = 'figx-name-style'>Fumeng Yang</text>, Claudio Silva",
 		"year": 2026,
-		"thumbnail": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/publication/2026-affective.jpeg",
-		"paper_id": "2026-affective",
+		"thumbnail": "https://raw.githubusercontent.com/fig-x/fig-x-data/main/publication/2026-duozone.jpeg",
+		"paper_id": "2026-xr",
 		"description": "",
-		"pdf": "https://doi.org/10.48550/arXiv.2607.01593",
+		"pdf": "https://arxiv.org/abs/2511.15676",
 		"video": "",
 		"repo": "",
 		"doi": "",
 		"demo": "",
 		"awards": "",
-		"abbr": "VIS Short Papers",
+		"abbr": "ISMAR",
 		"ai_image": true
 	}
 	,
-		{
+	{
 		"title": "Reheat Nachos for Dinner? Evaluating AI Support for Cross-Cultural Communication of Neologisms",
 		"people": "Dayeon Ki<sup class='snowflake'>❊</sup>, Yu Hou<sup class='snowflake'>❊</sup>, Rachel Rudinger, Hal Daumé III, Marine Carpuat, <text class = 'figx-name-style'>Fumeng Yang</text>",
 		"year": 2026,
